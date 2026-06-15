@@ -1,0 +1,1491 @@
+[27/04/2022 - 11:17:39] - Admin: Alex Trevor memberikan uang $3,000,000 ke Alex Trevor!
+[27/04/2022 - 11:21:06] - [Actor]: Alex Trevor membuat actor id 0!
+[27/04/2022 - 11:23:29] - [Workshop] Alex Trevor membuat workshop id 0!
+[27/04/2022 - 11:24:00] - [Vending] Alex Trevor membuat vending id 0!
+[27/04/2022 - 11:26:17] - Admin: Alex Trevor menyetel product jumlah 51!
+[27/04/2022 - 11:29:52] - [House]: Alex Trevor membuat house id 0!
+[27/04/2022 - 11:35:21] - Admin: Alex Trevor menyetel ketua faction id 1 ke Alex Trevor!
+[27/04/2022 - 11:44:17] - [Door]: Alex Trevor menghapus door id 18!
+[27/04/2022 - 12:21:53] - [Biz]: Alex Trevor membuat business id 0!
+[27/04/2022 - 12:27:59] - [Biz]: Alex Trevor membuat business id 1!
+[27/04/2022 - 12:30:48] - [Biz]: Alex Trevor membuat business id 2!
+[27/04/2022 - 12:31:48] - Admin: Alex Trevor menyetel product jumlah 49!
+[27/04/2022 - 12:36:40] - [Workshop] Alex Trevor membuat workshop id 0!
+[27/04/2022 - 12:36:47] - [Workshop] Alex Trevor membuat workshop id 1!
+[27/04/2022 - 12:38:17] - [Vending] Alex Trevor membuat vending id 0!
+[27/04/2022 - 12:38:46] - [Vending] Alex Trevor membuat vending id 0!
+[27/04/2022 - 12:38:52] - [Vending] Alex Trevor membuat vending id 0!
+[27/04/2022 - 12:43:52] - [SpeedCam] Alex Trevor membuat speedcam id 3!
+[28/04/2022 - 19:29:52] - [Vehicle]: Jeje Milano membuat kendaraan id 560 ke Jeje Milano!
+[28/04/2022 - 19:31:53] - Admin: Jeje Milano menyetel uang $20,000 ke Jeje Milano!
+[28/04/2022 - 19:32:10] - Admin: Jeje Milano menyetel uang $200,000 ke Jeje Milano!
+[28/04/2022 - 19:39:22] - Admin: Jeje menyetel ketua faction id 2 ke Jeje!
+[28/04/2022 - 19:56:22] - [House]: Jeje membuat house id 1!
+[28/04/2022 - 19:59:14] - [House]: Jeje menghapus house id 1!
+[28/04/2022 - 23:43:50] - Admin: Jeje Milano mengganti nama Jeje Milano menjadi James_Clairo!
+[29/04/2022 - 00:19:06] - Admin: James Clairo memberikan uang $10,000 ke James Clairo!
+[29/04/2022 - 00:42:15] - [Vehicle]: Clairo Stvano membuat kendaraan id 460 ke Clairo Stvano!
+[29/04/2022 - 00:42:32] - [Vehicle]: Clairo Stvano membuat kendaraan id 560 ke Clairo Stvano!
+[29/04/2022 - 00:47:05] - Admin: Clairo Stvano menyetel level Clairo Stvano ke level 10!
+[29/04/2022 - 06:01:01] - Admin: Clairo Stvano memberikan uang $100,000 ke Clairo Stvano!
+[29/04/2022 - 06:13:10] - Admin: Clairo Stvano menyetel ketua faction id 1 ke Clairo Stvano!
+[29/04/2022 - 06:14:27] - [Actor]: Clairo Stvano membuat actor id 1!
+[29/04/2022 - 06:18:57] - Admin: Clairo Stvano menyetel component jumlah 49!
+[29/04/2022 - 06:22:36] - [House]: Clairo Stvano membuat house id 1!
+[29/04/2022 - 06:22:48] - Admin: Clairo Stvano menyetel uang $35,000 ke Clairo Stvano!
+[29/04/2022 - 06:25:28] - [House]: Clairo Stvano membuat house id 2!
+[29/04/2022 - 06:25:58] - [House]: Clairo Stvano membuat house id 3!
+[29/04/2022 - 06:26:27] - [House]: Clairo Stvano membuat house id 4!
+[29/04/2022 - 06:26:54] - Admin: Clairo Stvano menyetel VIP ke Clairo Stvano, permanen jenis {5A00FF}Diamond!
+[29/04/2022 - 06:27:23] - [House]: Clairo Stvano membuat house id 5!
+[29/04/2022 - 06:28:27] - [House]: Clairo Stvano membuat house id 6!
+[29/04/2022 - 06:28:58] - [House]: Clairo Stvano membuat house id 7!
+[29/04/2022 - 06:29:14] - [House]: Clairo Stvano membuat house id 8!
+[29/04/2022 - 06:29:45] - [House]: Clairo Stvano membuat house id 9!
+[29/04/2022 - 06:30:01] - [House]: Clairo Stvano membuat house id 10!
+[29/04/2022 - 06:30:25] - [House]: Clairo Stvano membuat house id 11!
+[29/04/2022 - 06:30:45] - [House]: Clairo Stvano membuat house id 12!
+[29/04/2022 - 06:30:56] - [House]: Clairo Stvano menghapus house id 12!
+[29/04/2022 - 06:31:00] - [House]: Clairo Stvano membuat house id 12!
+[29/04/2022 - 06:31:06] - [House]: Clairo Stvano menghapus house id 12!
+[29/04/2022 - 06:31:10] - [House]: Clairo Stvano membuat house id 12!
+[29/04/2022 - 06:31:38] - [House]: Clairo Stvano membuat house id 13!
+[29/04/2022 - 06:32:05] - [House]: Clairo Stvano membuat house id 14!
+[29/04/2022 - 06:32:22] - [House]: Clairo Stvano membuat house id 15!
+[29/04/2022 - 06:32:48] - [House]: Clairo Stvano membuat house id 16!
+[29/04/2022 - 06:32:59] - [House]: Clairo Stvano membuat house id 17!
+[29/04/2022 - 06:33:25] - [House]: Clairo Stvano membuat house id 18!
+[29/04/2022 - 06:33:49] - [House]: Clairo Stvano membuat house id 19!
+[29/04/2022 - 06:34:32] - [House]: Clairo Stvano membuat house id 20!
+[29/04/2022 - 06:35:07] - [House]: Clairo Stvano membuat house id 21!
+[29/04/2022 - 06:35:20] - [House]: Clairo Stvano membuat house id 22!
+[29/04/2022 - 06:35:42] - [House]: Clairo Stvano membuat house id 23!
+[29/04/2022 - 06:36:05] - [House]: Clairo Stvano membuat house id 24!
+[29/04/2022 - 06:36:20] - Admin: Clairo Stvano menyetel uang $25,000 ke Clairo Stvano!
+[29/04/2022 - 06:38:02] - [House]: Clairo Stvano membuat house id 25!
+[29/04/2022 - 06:38:13] - [House]: Clairo Stvano membuat house id 26!
+[29/04/2022 - 06:38:31] - [House]: Clairo Stvano membuat house id 27!
+[29/04/2022 - 06:38:48] - [House]: Clairo Stvano membuat house id 28!
+[29/04/2022 - 06:39:00] - [House]: Clairo Stvano membuat house id 29!
+[29/04/2022 - 06:39:19] - [House]: Clairo Stvano membuat house id 30!
+[29/04/2022 - 06:39:29] - [House]: Clairo Stvano membuat house id 31!
+[29/04/2022 - 06:40:14] - [House]: Clairo Stvano membuat house id 32!
+[29/04/2022 - 06:40:32] - [House]: Clairo Stvano membuat house id 33!
+[29/04/2022 - 06:40:52] - [House]: Clairo Stvano membuat house id 34!
+[29/04/2022 - 06:41:18] - [House]: Clairo Stvano membuat house id 35!
+[29/04/2022 - 06:41:26] - [House]: Clairo Stvano membuat house id 36!
+[29/04/2022 - 06:41:37] - [House]: Clairo Stvano membuat house id 37!
+[29/04/2022 - 06:41:50] - [House]: Clairo Stvano membuat house id 38!
+[29/04/2022 - 06:42:14] - [House]: Clairo Stvano membuat house id 39!
+[29/04/2022 - 06:42:25] - [House]: Clairo Stvano membuat house id 40!
+[29/04/2022 - 06:42:34] - [House]: Clairo Stvano membuat house id 41!
+[29/04/2022 - 06:42:45] - [House]: Clairo Stvano membuat house id 42!
+[29/04/2022 - 06:43:19] - [House]: Clairo Stvano membuat house id 43!
+[29/04/2022 - 06:43:24] - [House]: Clairo Stvano membuat house id 44!
+[29/04/2022 - 06:43:32] - [House]: Clairo Stvano membuat house id 45!
+[29/04/2022 - 06:43:37] - [House]: Clairo Stvano membuat house id 46!
+[29/04/2022 - 06:43:46] - [House]: Clairo Stvano membuat house id 47!
+[29/04/2022 - 06:43:51] - [House]: Clairo Stvano membuat house id 48!
+[29/04/2022 - 06:43:54] - [House]: Clairo Stvano membuat house id 49!
+[29/04/2022 - 06:43:59] - [House]: Clairo Stvano membuat house id 50!
+[29/04/2022 - 06:44:08] - [House]: Clairo Stvano membuat house id 51!
+[29/04/2022 - 06:44:13] - [House]: Clairo Stvano membuat house id 52!
+[29/04/2022 - 06:44:18] - [House]: Clairo Stvano membuat house id 53!
+[29/04/2022 - 06:44:22] - [House]: Clairo Stvano membuat house id 54!
+[29/04/2022 - 06:44:30] - [House]: Clairo Stvano membuat house id 55!
+[29/04/2022 - 06:44:37] - [House]: Clairo Stvano membuat house id 56!
+[29/04/2022 - 06:44:41] - [House]: Clairo Stvano membuat house id 57!
+[29/04/2022 - 06:44:49] - [House]: Clairo Stvano membuat house id 58!
+[29/04/2022 - 06:47:45] - [Biz]: Clairo Stvano membuat business id 3!
+[29/04/2022 - 06:48:00] - [Biz]: Clairo Stvano membuat business id 4!
+[29/04/2022 - 06:48:09] - [Biz]: Clairo Stvano membuat business id 5!
+[29/04/2022 - 06:48:20] - [Biz]: Clairo Stvano membuat business id 6!
+[29/04/2022 - 06:49:19] - [Biz]: Clairo Stvano membuat business id 7!
+[29/04/2022 - 06:49:35] - Admin: Clairo Stvano menyetel uang $1,000,000 ke Clairo Stvano!
+[29/04/2022 - 06:57:36] - [House]: Clairo Stvano menghapus house id 0!
+[29/04/2022 - 06:57:55] - [Biz]: Clairo Stvano membuat business id 8!
+[29/04/2022 - 06:58:47] - [Biz]: Clairo Stvano menghapus business id 0!
+[29/04/2022 - 06:58:53] - [Biz]: Clairo Stvano membuat business id 0!
+[29/04/2022 - 07:29:11] - [Biz]: Clairo Stvano membuat business id 9!
+[29/04/2022 - 21:09:24] - [Workshop] Clairo Stvano membuat workshop id 2!
+[29/04/2022 - 21:17:52] - [Workshop] Clairo Stvano membuat workshop id 3!
+[29/04/2022 - 21:20:51] - [Workshop] Clairo Stvano membuat workshop id 4!
+[29/04/2022 - 21:21:27] - [House]: Clairo Stvano membuat house id 0!
+[29/04/2022 - 21:21:47] - [House]: Clairo Stvano membuat house id 59!
+[29/04/2022 - 21:22:17] - [House]: Clairo Stvano membuat house id 60!
+[29/04/2022 - 21:33:16] - [Vehicle]: Clairo Stvano membuat kendaraan id 522 ke Clairo Stvano!
+[29/04/2022 - 21:34:58] - [Workshop] Clairo Stvano membuat workshop id 5!
+[29/04/2022 - 21:48:07] - [Biz]: Clairo Stvano membuat business id 10!
+[30/04/2022 - 09:17:43] - Admin: Clairo Stvano menyetel ketua faction id 3 ke Clairo Stvano!
+[30/04/2022 - 11:26:12] - [House]: Clairo Stvano membuat house id 61!
+[30/04/2022 - 11:28:39] - [Workshop] Clairo Stvano membuat workshop id 6!
+[30/04/2022 - 11:31:10] - [Workshop] Clairo Stvano membuat workshop id 7!
+[30/04/2022 - 11:36:31] - [Workshop] Clairo Stvano membuat workshop id 8!
+[30/04/2022 - 11:58:40] - [House]: Clairo Stvano membuat house id 62!
+[30/04/2022 - 20:47:28] - Admin: Clairo Stvano menyetel 100000 Gold ke Clairo Stvano!
+[30/04/2022 - 20:47:43] - Admin: Clairo Stvano menyetel hp Clairo Stvano!
+[30/04/2022 - 21:15:05] - Admin: Clairo Stvano menyetel level admin 6 ke Jhono Sujhono!
+[01/05/2022 - 09:08:00] - [Garkot]: Clairo Stvano membuat garkot id 5!
+[01/05/2022 - 09:08:20] - [Garkot]: Clairo Stvano menghapus garkot id 5!
+[01/05/2022 - 18:25:02] - Admin: JHONO menyetel uang $1,000,000 ke JHONO!
+[02/05/2022 - 07:51:33] - Admin: Clairo Stvano mengeluarkan Clairo Stvano dari ketu fraksi!
+[02/05/2022 - 07:54:57] - [Workshop] Clairo Stvano membuat workshop id 9!
+[06/05/2022 - 06:46:24] - [Gas]: Clairo Stvano membuat gas station id 7!
+[06/05/2022 - 06:46:34] - [Gas]: Clairo Stvano menghapus gas station id 0!
+[06/05/2022 - 07:57:53] - [Garkot]: Clairo Stvano menghapus garkot id 0!
+[06/05/2022 - 07:57:57] - [Garkot]: Clairo Stvano menghapus garkot id 1!
+[06/05/2022 - 12:53:14] - Admin: Clairo Stvano menyetel level admin 4 ke Jerycson Cheruzten!
+[06/05/2022 - 12:54:45] - Admin: Jerry menyetel level Jerry ke level 10!
+[07/05/2022 - 05:52:49] - [House]: Clairo Stvano membuat house id 63!
+[07/05/2022 - 05:55:58] - [House]: CLAIRO membuat house id 64!
+[07/05/2022 - 06:03:21] - [Vehicle]: Clairo Stvano membuat kendaraan id 602 ke Clairo Stvano!
+[07/05/2022 - 06:48:24] - [Family]: Clairo Stvano membuat family id 0!
+[07/05/2022 - 07:50:32] - Admin: Clairo Stvano menyetel hp Clairo Stvano!
+[07/05/2022 - 07:55:26] - [Workshop] Clairo Stvano membuat workshop id 10!
+[07/05/2022 - 08:09:31] - [House]: Clairo Stvano membuat house id 65!
+[07/05/2022 - 08:09:54] - [House]: Clairo Stvano membuat house id 66!
+[07/05/2022 - 08:10:07] - [House]: Clairo Stvano membuat house id 67!
+[07/05/2022 - 08:10:21] - [House]: Clairo Stvano membuat house id 68!
+[07/05/2022 - 08:10:37] - [House]: Clairo Stvano membuat house id 69!
+[07/05/2022 - 08:11:15] - [Biz]: Clairo Stvano membuat business id 11!
+[07/05/2022 - 08:11:34] - [Biz]: Clairo Stvano membuat business id 12!
+[07/05/2022 - 08:13:51] - [Biz]: Clairo Stvano membuat business id 13!
+[07/05/2022 - 08:14:56] - [Biz]: Clairo Stvano membuat business id 14!
+[07/05/2022 - 09:21:20] - [Actor]: Clairo Stvano membuat actor id 2!
+[07/05/2022 - 09:34:05] - [Garkot]: Clairo Stvano membuat garkot id 0!
+[11/05/2022 - 21:55:50] - Admin: Jhono Sujhono menyetel level admin 6 ke Jeje Milano!
+[11/05/2022 - 21:56:11] - [Vehicle]: Jeje Milano membuat kendaraan id 560 ke Jeje Milano!
+[11/05/2022 - 21:57:47] - [Vehicle]: Jeje Milano membuat kendaraan id 560 ke Jhono Sujhono!
+[11/05/2022 - 22:20:47] - Admin: JHONO menyetel faction id 1 & rank 13 ke JHONO!
+[11/05/2022 - 22:23:21] - Admin: JHONO menyetel hp JHONO!
+[11/05/2022 - 22:23:44] - Admin: JHONO menyetel hp JHONO!
+[11/05/2022 - 22:26:22] - Admin: JHONO memberikan uang $10,000 ke JHONO!
+[11/05/2022 - 22:31:34] - [House]: JHONO membuat house id 0!
+[11/05/2022 - 22:51:02] - [Vehicle]: Jeje Milano membuat kendaraan id 562 ke Jeje Milano!
+[11/05/2022 - 23:15:57] - [House]: Jeje Milano membuat house id 1!
+[12/05/2022 - 05:43:56] - Admin: Jeje Milano menyetel VIP ke Jeje Milano, permanen jenis {5A00FF}Diamond!
+[12/05/2022 - 05:44:53] - [Vehicle]: Jeje Milano membuat kendaraan id 602 ke Jeje Milano!
+[12/05/2022 - 07:10:13] - [Biz]: Jeje Milano membuat business id 0!
+[12/05/2022 - 09:37:30] - Admin: Jeje Milano menyetel VIP ke Jeje Milano selama 2 hari jenis {5A00FF}Diamond!
+[12/05/2022 - 09:37:38] - Admin: Jeje Milano menyetel VIP ke Jeje Milano, permanen jenis {5A00FF}Diamond!
+[12/05/2022 - 09:38:47] - [Family]: Jeje Milano membuat family id 0!
+[13/05/2022 - 08:55:23] - [House]: Jeje Milano membuat house id 2!
+[13/05/2022 - 09:10:42] - [House]: Jeje Milano membuat house id 3!
+[13/05/2022 - 09:11:03] - [Workshop] Jeje Milano membuat workshop id 0!
+[13/05/2022 - 09:12:26] - [Garkot]: Jeje Milano membuat garkot id 5!
+[13/05/2022 - 10:33:31] - Admin: Jeje Milano memberikan uang $10,000 ke Jeje Milano!
+[13/05/2022 - 10:38:00] - [House]: Jeje Milano menghapus house id 0!
+[13/05/2022 - 10:39:08] - Admin: Jeje Milano mengganti nama Jeje Milano menjadi Clairo_Stevano!
+[13/05/2022 - 10:41:36] - [House]: Clairo Stevano membuat house id 0!
+[13/05/2022 - 12:41:38] - [Biz]: Clairo Stevano membuat business id 1!
+[13/05/2022 - 12:44:23] - [Biz]: Clairo Stevano membuat business id 2!
+[13/05/2022 - 12:48:40] - [Biz]: Clairo Stevano membuat business id 3!
+[13/05/2022 - 12:51:42] - [Biz]: Clairo Stevano membuat business id 4!
+[13/05/2022 - 12:53:24] - [Biz]: Clairo Stevano membuat business id 5!
+[13/05/2022 - 15:23:42] - [Vehicle]: Clairo Stevano membuat kendaraan id 456 ke Clairo Stevano!
+[13/05/2022 - 15:41:14] - Admin: Clairo Stevano menyetel uang $10,000 ke Clairo Stevano!
+[13/05/2022 - 15:51:45] - Admin: Clairo Stevano menyetel hp Clairo Stevano!
+[13/05/2022 - 16:30:47] - Admin: Clairo Stevano menyetel uang $10,000 ke Clairo Stevano!
+[13/05/2022 - 17:46:51] - [Vehicle]: Clairo Stvano membuat kendaraan id 468 ke Clairo Stvano!
+[13/05/2022 - 17:47:00] - [Vehicle]: Clairo Stvano membuat kendaraan id 486 ke Clairo Stvano!
+[13/05/2022 - 17:47:08] - Admin: Clairo Stvano menyetel VIP ke Clairo Stvano, permanen jenis {5A00FF}Diamond!
+[14/05/2022 - 01:48:21] - [Vehicle]: Clairo Stvano membuat kendaraan id 560 ke Clairo Stvano!
+[14/05/2022 - 19:51:28] - [Vehicle]: Jhono Sujhono membuat kendaraan id 560 ke Lovic Hug!
+[14/05/2022 - 19:51:38] - [Vehicle]: Jhono Sujhono membuat kendaraan id 560 ke Lovic Hug!
+[14/05/2022 - 19:56:43] - Admin: JHONO menyetel level admin 6 ke Lovic Hug!
+[14/05/2022 - 20:00:08] - Admin: JHONO menyetel hp JHONO!
+[14/05/2022 - 20:00:31] - Admin: zzz menyetel hp zzz!
+[14/05/2022 - 20:02:50] - [House]: Lovic Hug membuat house id 4!
+[14/05/2022 - 20:03:07] - [House]: Lovic Hug menghapus house id 4!
+[14/05/2022 - 20:03:24] - [House]: JHONO membuat house id 4!
+[14/05/2022 - 20:04:25] - [House]: Lovic Hug menghapus house id 4!
+[14/05/2022 - 20:04:43] - [House]: JHONO membuat house id 4!
+[14/05/2022 - 20:05:00] - Admin: JHONO menyetel uang $400,000 ke JHONO!
+[14/05/2022 - 20:05:37] - [House]: JHONO menghapus house id 4!
+[14/05/2022 - 20:11:51] - Admin: JHONO menyetel uang $20,000 ke JHONO!
+[15/05/2022 - 11:26:50] - [Vehicle]: Clairo Stvano membuat kendaraan id 560 ke Clairo Stvano!
+[15/05/2022 - 13:06:56] - [Vehicle]: Jhono Sujhono membuat kendaraan id 560 ke Jhono Sujhono!
+[15/05/2022 - 13:10:20] - Admin: Jhono Sujhono menyetel faction id 1 & rank 13 ke Jhono Sujhono!
+[15/05/2022 - 13:10:51] - Admin: Jhono Sujhono mengeluarkan Jhono Sujhono dari ketu fraksi!
+[15/05/2022 - 13:11:53] - Admin: Jhono Sujhono menyetel uang $100,000,000 ke Jhono Sujhono!
+[15/05/2022 - 13:31:26] - Admin: Jhono Sujhono menyetel hp Jhono Sujhono!
+[24/05/2022 - 06:50:57] - Admin: Clairo Stevano memberikan senjata Nite Stick(250) ke Clairo Stevano!
+[24/05/2022 - 06:50:59] - Admin: Clairo Stevano memberikan senjata Knife(250) ke Clairo Stevano!
+[24/05/2022 - 06:51:01] - Admin: Clairo Stevano memberikan senjata Baseball Bat(250) ke Clairo Stevano!
+[24/05/2022 - 07:16:05] - Admin: Clairo Stevano menyetel hp Clairo Stevano!
+[24/05/2022 - 07:19:55] - Admin: Clairo Stevano menyetel ketua faction id 1 ke Clairo Stevano!
+[24/05/2022 - 07:23:46] - [Door]: Clairo Stevano menghapus door id 18!
+[24/05/2022 - 07:50:15] - Admin: Clairo Stevano mengeluarkan Clairo Stevano dari ketu fraksi!
+[24/05/2022 - 07:50:27] - [Family]: Clairo Stevano membuat family id 0!
+[24/05/2022 - 12:12:32] - [Workshop] Clairo Stevano membuat workshop id 0!
+[24/05/2022 - 20:31:47] - [Biz]: Clairo Stevano membuat business id 4!
+[24/05/2022 - 20:39:20] - [Biz]: Clairo Stevano menghapus business id 2!
+[24/05/2022 - 20:39:28] - Admin: Clairo Stevano menyetel VIP ke Clairo Stevano, permanen jenis {5A00FF}Diamond!
+[24/05/2022 - 20:39:53] - [Biz]: Clairo Stevano membuat business id 2!
+[24/05/2022 - 20:41:56] - [Atm]: Clairo Stevano membuat atm id 15!
+[24/05/2022 - 20:42:03] - [Atm]: Clairo Stevano menghapus atm id 15!
+[26/05/2022 - 13:47:19] - [House]: Clairo Stevano membuat house id 2!
+[27/05/2022 - 04:18:15] - Admin: Clairo Stevano memberikan senjata Desert Eagle(100) ke Clairo Stevano!
+[27/05/2022 - 04:32:32] - [VEH]: Clairo Stevano merespawn kendaraan id 103 lokasi di Las Barrancas!
+[27/05/2022 - 04:32:35] - [VEH]: Clairo Stevano merespawn kendaraan id 102 lokasi di Las Barrancas!
+[27/05/2022 - 04:35:07] - [House]: Clairo Stevano membuat house id 3!
+[27/05/2022 - 04:36:16] - [House]: Clairo Stevano membuat house id 4!
+[27/05/2022 - 04:36:22] - [House]: Clairo Stevano membuat house id 5!
+[27/05/2022 - 04:36:48] - [House]: Clairo Stevano membuat house id 6!
+[27/05/2022 - 04:37:16] - [House]: Clairo Stevano membuat house id 7!
+[27/05/2022 - 04:37:31] - [House]: Clairo Stevano membuat house id 8!
+[27/05/2022 - 04:37:43] - [House]: Clairo Stevano membuat house id 9!
+[27/05/2022 - 04:38:09] - [House]: Clairo Stevano membuat house id 10!
+[27/05/2022 - 04:38:23] - [House]: Clairo Stevano membuat house id 11!
+[27/05/2022 - 04:38:38] - [House]: Clairo Stevano membuat house id 12!
+[27/05/2022 - 04:39:15] - [House]: Clairo Stevano membuat house id 13!
+[27/05/2022 - 04:39:30] - [House]: Clairo Stevano membuat house id 14!
+[27/05/2022 - 04:39:45] - [House]: Clairo Stevano membuat house id 15!
+[27/05/2022 - 04:40:02] - [House]: Clairo Stevano membuat house id 16!
+[27/05/2022 - 04:40:17] - [House]: Clairo Stevano membuat house id 17!
+[27/05/2022 - 04:40:52] - [House]: Clairo Stevano membuat house id 18!
+[27/05/2022 - 04:41:15] - [House]: Clairo Stevano membuat house id 19!
+[27/05/2022 - 04:41:42] - [House]: Clairo Stevano membuat house id 20!
+[27/05/2022 - 04:41:59] - [House]: Clairo Stevano membuat house id 21!
+[27/05/2022 - 04:42:16] - Admin: Clairo Stevano menyetel hp Clairo Stevano!
+[27/05/2022 - 04:42:29] - [House]: Clairo Stevano membuat house id 22!
+[27/05/2022 - 04:42:43] - [House]: Clairo Stevano membuat house id 23!
+[27/05/2022 - 04:42:56] - [House]: Clairo Stevano membuat house id 24!
+[27/05/2022 - 04:43:07] - [House]: Clairo Stevano membuat house id 25!
+[27/05/2022 - 04:43:25] - [House]: Clairo Stevano membuat house id 26!
+[27/05/2022 - 04:43:36] - [House]: Clairo Stevano membuat house id 27!
+[27/05/2022 - 04:43:56] - [House]: Clairo Stevano membuat house id 28!
+[27/05/2022 - 04:44:10] - [House]: Clairo Stevano membuat house id 29!
+[27/05/2022 - 04:44:39] - [House]: Clairo Stevano membuat house id 30!
+[27/05/2022 - 04:44:51] - [House]: Clairo Stevano membuat house id 31!
+[27/05/2022 - 04:44:59] - [House]: Clairo Stevano membuat house id 32!
+[27/05/2022 - 04:45:10] - [House]: Clairo Stevano membuat house id 33!
+[27/05/2022 - 04:45:31] - [House]: Clairo Stevano membuat house id 34!
+[27/05/2022 - 04:45:42] - [House]: Clairo Stevano membuat house id 35!
+[27/05/2022 - 04:46:33] - [House]: Clairo Stevano membuat house id 36!
+[27/05/2022 - 04:46:38] - [House]: Clairo Stevano membuat house id 37!
+[27/05/2022 - 04:46:42] - [House]: Clairo Stevano membuat house id 38!
+[27/05/2022 - 04:46:45] - [House]: Clairo Stevano membuat house id 39!
+[27/05/2022 - 04:46:53] - [House]: Clairo Stevano membuat house id 40!
+[27/05/2022 - 04:46:57] - [House]: Clairo Stevano membuat house id 41!
+[27/05/2022 - 04:47:01] - [House]: Clairo Stevano membuat house id 42!
+[27/05/2022 - 04:47:05] - [House]: Clairo Stevano membuat house id 43!
+[27/05/2022 - 04:47:28] - [House]: Clairo Stevano membuat house id 44!
+[27/05/2022 - 04:47:34] - [House]: Clairo Stevano membuat house id 45!
+[27/05/2022 - 04:47:38] - [House]: Clairo Stevano membuat house id 46!
+[27/05/2022 - 04:47:42] - [House]: Clairo Stevano membuat house id 47!
+[27/05/2022 - 04:47:47] - [House]: Clairo Stevano membuat house id 48!
+[27/05/2022 - 04:47:54] - [House]: Clairo Stevano membuat house id 49!
+[27/05/2022 - 04:47:57] - [House]: Clairo Stevano membuat house id 50!
+[27/05/2022 - 04:48:01] - [House]: Clairo Stevano membuat house id 51!
+[27/05/2022 - 04:48:27] - [House]: Clairo Stevano membuat house id 52!
+[27/05/2022 - 04:48:40] - [House]: Clairo Stevano membuat house id 53!
+[27/05/2022 - 04:48:49] - [House]: Clairo Stevano membuat house id 54!
+[27/05/2022 - 04:49:00] - [House]: Clairo Stevano membuat house id 55!
+[27/05/2022 - 04:49:28] - [House]: Clairo Stevano membuat house id 56!
+[27/05/2022 - 04:49:39] - [House]: Clairo Stevano membuat house id 57!
+[27/05/2022 - 04:49:53] - [House]: Clairo Stevano membuat house id 58!
+[27/05/2022 - 04:50:18] - [House]: Clairo Stevano membuat house id 59!
+[27/05/2022 - 04:50:26] - [House]: Clairo Stevano membuat house id 60!
+[27/05/2022 - 04:50:51] - [Garkot]: Clairo Stevano membuat garkot id 5!
+[27/05/2022 - 04:51:19] - [Garkot]: Clairo Stevano membuat garkot id 6!
+[27/05/2022 - 04:52:04] - [Garkot]: Clairo Stevano menghapus garkot id 5!
+[27/05/2022 - 04:53:10] - [House]: Clairo Stevano membuat house id 61!
+[27/05/2022 - 04:53:35] - [House]: Clairo Stevano membuat house id 62!
+[27/05/2022 - 04:54:06] - [House]: Clairo Stevano membuat house id 63!
+[27/05/2022 - 04:54:27] - [House]: Clairo Stevano membuat house id 64!
+[27/05/2022 - 04:54:47] - [House]: Clairo Stevano membuat house id 65!
+[27/05/2022 - 04:55:21] - [House]: Clairo Stevano membuat house id 66!
+[27/05/2022 - 04:55:51] - [House]: Clairo Stevano membuat house id 67!
+[27/05/2022 - 04:56:05] - [House]: Clairo Stevano membuat house id 68!
+[27/05/2022 - 04:56:17] - [House]: Clairo Stevano membuat house id 69!
+[27/05/2022 - 04:56:59] - [House]: Clairo Stevano membuat house id 70!
+[27/05/2022 - 04:57:29] - [House]: Clairo Stevano membuat house id 71!
+[27/05/2022 - 04:57:43] - [House]: Clairo Stevano membuat house id 72!
+[27/05/2022 - 04:58:48] - [House]: Clairo Stevano membuat house id 73!
+[27/05/2022 - 04:59:08] - [House]: Clairo Stevano membuat house id 74!
+[27/05/2022 - 04:59:29] - [House]: Clairo Stevano membuat house id 75!
+[27/05/2022 - 04:59:49] - [House]: Clairo Stevano membuat house id 76!
+[27/05/2022 - 05:00:09] - [House]: Clairo Stevano membuat house id 77!
+[27/05/2022 - 05:00:27] - [House]: Clairo Stevano membuat house id 78!
+[27/05/2022 - 05:01:14] - [House]: Clairo Stevano membuat house id 79!
+[27/05/2022 - 05:01:51] - [House]: Clairo Stevano membuat house id 80!
+[27/05/2022 - 05:02:31] - [House]: Clairo Stevano membuat house id 81!
+[27/05/2022 - 05:02:49] - [House]: Clairo Stevano membuat house id 82!
+[27/05/2022 - 05:02:58] - [House]: Clairo Stevano membuat house id 83!
+[27/05/2022 - 05:03:07] - [House]: Clairo Stevano membuat house id 84!
+[27/05/2022 - 05:03:21] - [House]: Clairo Stevano membuat house id 85!
+[27/05/2022 - 05:03:34] - [House]: Clairo Stevano membuat house id 86!
+[27/05/2022 - 05:03:52] - [House]: Clairo Stevano membuat house id 87!
+[27/05/2022 - 05:04:08] - [House]: Clairo Stevano membuat house id 88!
+[27/05/2022 - 05:04:22] - [House]: Clairo Stevano membuat house id 89!
+[27/05/2022 - 05:04:34] - [House]: Clairo Stevano membuat house id 90!
+[27/05/2022 - 05:04:49] - [House]: Clairo Stevano membuat house id 91!
+[27/05/2022 - 05:05:01] - [House]: Clairo Stevano membuat house id 92!
+[27/05/2022 - 05:05:12] - [House]: Clairo Stevano membuat house id 93!
+[27/05/2022 - 05:05:21] - [House]: Clairo Stevano membuat house id 94!
+[27/05/2022 - 05:05:32] - [House]: Clairo Stevano membuat house id 95!
+[27/05/2022 - 05:05:47] - [House]: Clairo Stevano membuat house id 96!
+[27/05/2022 - 05:06:01] - [Workshop] Clairo Stevano membuat workshop id 1!
+[27/05/2022 - 05:06:19] - [House]: Clairo Stevano membuat house id 97!
+[27/05/2022 - 05:06:32] - [House]: Clairo Stevano membuat house id 98!
+[27/05/2022 - 05:06:46] - [House]: Clairo Stevano membuat house id 99!
+[27/05/2022 - 05:06:55] - [House]: Clairo Stevano membuat house id 100!
+[27/05/2022 - 05:07:04] - [House]: Clairo Stevano membuat house id 101!
+[27/05/2022 - 05:07:14] - [House]: Clairo Stevano membuat house id 102!
+[27/05/2022 - 05:07:26] - [House]: Clairo Stevano membuat house id 103!
+[27/05/2022 - 05:07:58] - [Biz]: Clairo Stevano membuat business id 5!
+[27/05/2022 - 05:09:52] - [House]: Clairo Stevano membuat house id 104!
+[27/05/2022 - 05:10:15] - [House]: Clairo Stevano membuat house id 105!
+[27/05/2022 - 05:10:27] - [House]: Clairo Stevano membuat house id 106!
+[27/05/2022 - 05:10:36] - [House]: Clairo Stevano membuat house id 107!
+[27/05/2022 - 05:10:47] - [House]: Clairo Stevano membuat house id 108!
+[27/05/2022 - 06:32:59] - Admin: Clairo Stevano menyetel hp Clairo Stevano!
+[28/05/2022 - 05:58:36] - [Family]: Clairo Stevano menghapus family id 0!
+[28/05/2022 - 05:58:47] - Admin: Clairo Stevano menyetel ketua faction id 1 ke Clairo Stevano!
+[28/05/2022 - 05:59:34] - Admin: Clairo Stevano menyetel ketua faction id 2 ke Clairo Stevano!
+[28/05/2022 - 05:59:37] - Admin: Clairo Stevano menyetel ketua faction id 3 ke Clairo Stevano!
+[28/05/2022 - 06:33:58] - Admin: Clairo Stevano menyetel armor Clairo Stevano!
+[28/05/2022 - 06:34:14] - Admin: Clairo Stevano menyetel armor Clairo Stevano!
+[28/05/2022 - 07:22:56] - Admin: Clairo Stevano menyetel hp Clairo Stevano!
+[28/05/2022 - 07:35:01] - Admin: Clairo Stevano menyetel ketua faction id 2 ke Clairo Stevano!
+[28/05/2022 - 13:32:02] - Admin: Clairo Stevano menyetel ketua faction id 5 ke Clairo Stevano!
+[28/05/2022 - 14:02:33] - Admin: Clairo Stevano menyetel ketua faction id 3 ke Clairo Stevano!
+[28/05/2022 - 14:02:41] - Admin: Clairo Stevano menyetel ketua faction id 2 ke Clairo Stevano!
+[28/05/2022 - 14:05:42] - Admin: Clairo Stevano menyetel ketua faction id 1 ke Clairo Stevano!
+[28/05/2022 - 14:06:19] - Admin: Clairo Stevano menyetel ketua faction id 2 ke Clairo Stevano!
+[28/05/2022 - 14:06:26] - Admin: Clairo Stevano menyetel ketua faction id 3 ke Clairo Stevano!
+[28/05/2022 - 14:07:06] - Admin: Clairo Stevano menyetel ketua faction id 4 ke Clairo Stevano!
+[28/05/2022 - 14:07:56] - Admin: Clairo Stevano menyetel ketua faction id 5 ke Clairo Stevano!
+[28/05/2022 - 14:18:02] - Admin: Clairo Stevano menyetel ketua faction id 5 ke Clairo Stevano!
+[28/05/2022 - 14:23:43] - Admin: Clairo Stevano menyetel ketua faction id 5 ke Clairo Stevano!
+[28/05/2022 - 14:24:20] - Admin: Clairo Stevano menyetel pedagang jumlah 49!
+[29/05/2022 - 01:33:51] - Admin: Clairo Stevano menyetel ketua faction id 5 ke Clairo Stevano!
+[29/05/2022 - 08:24:11] - [Biz]: Clairo Stevano membuat business id 7!
+[29/05/2022 - 08:24:24] - Admin: Clairo Stevano menyetel ketua faction id 2 ke Clairo Stevano!
+[29/05/2022 - 08:26:37] - [Door]: Clairo Stevano menghapus door id 33!
+[29/05/2022 - 08:29:33] - [House]: Clairo Stevano membuat house id 109!
+[29/05/2022 - 08:30:11] - [House]: Clairo Stevano membuat house id 110!
+[29/05/2022 - 10:15:58] - [VEH]: Clairo Stevano menghapus kendaraan id 102 (database id: 10)!
+[29/05/2022 - 10:16:16] - [Vehicle]: Clairo Stevano membuat kendaraan id 560 ke Clairo Stevano!
+[29/05/2022 - 10:18:47] - [Vehicle]: Clairo Stevano membuat kendaraan id 562 ke Clairo Stevano!
+[29/05/2022 - 10:19:37] - [VEH]: Clairo Stevano menghapus kendaraan id 103 (database id: 16)!
+[29/05/2022 - 10:23:54] - [Vehicle]: Clairo Stevano membuat kendaraan id 602 ke Clairo Stevano!
+[29/05/2022 - 10:30:26] - Admin: Clairo Stevano memberikan senjata Desert Eagle(100) ke Clairo Stevano!
+[29/05/2022 - 10:30:47] - Admin: Clairo Stevano memberikan senjata Shotgun(100) ke Clairo Stevano!
+[29/05/2022 - 12:11:06] - Admin: Clairo Stevano menyetel ketua faction id 3 ke Clairo Stevano!
+[29/05/2022 - 12:13:57] - Admin: Clairo Stevano menyetel ketua faction id 2 ke Clairo Stevano!
+[29/05/2022 - 12:43:49] - [Vehicle]: Clairo Stevano membuat kendaraan id 411 ke Clairo Stevano!
+[29/05/2022 - 12:45:00] - [Vehicle]: Clairo Stevano membuat kendaraan id 468 ke Clairo Stevano!
+[29/05/2022 - 12:45:38] - [VEH]: Clairo Stevano menghapus kendaraan id 105 (database id: 19)!
+[29/05/2022 - 12:46:33] - [Vehicle]: Clairo Stevano membuat kendaraan id 579 ke Clairo Stevano!
+[29/05/2022 - 12:46:38] - [VEH]: Clairo Stevano menghapus kendaraan id 105 (database id: 20)!
+[29/05/2022 - 12:50:01] - [VEH]: Clairo Stevano menghapus kendaraan id 102 (database id: 15)!
+[29/05/2022 - 12:50:04] - [VEH]: Clairo Stevano menghapus kendaraan id 103 (database id: 17)!
+[29/05/2022 - 12:50:11] - [VEH]: Clairo Stevano menghapus kendaraan id 104 (database id: 18)!
+[29/05/2022 - 12:55:06] - [VEH]: Clairo Stevano menghapus kendaraan id 106 (database id: 25)!
+[29/05/2022 - 13:02:14] - [VEH]: Clairo Stevano menghapus kendaraan id 102 (database id: 28)!
+[29/05/2022 - 13:02:39] - [VEH]: Clairo Stevano menghapus kendaraan id 102 (database id: 29)!
+[29/05/2022 - 13:03:02] - [VEH]: Clairo Stevano menghapus kendaraan id 102 (database id: 30)!
+[29/05/2022 - 13:03:51] - [Biz]: Clairo Stevano membuat business id 8!
+[29/05/2022 - 13:10:23] - [SpeedCam] Clairo Stevano membuat speedcam id 3!
+[29/05/2022 - 13:19:04] - Admin: Bella Cristine memberi Clairo_Stevano jail(offline) selama 100 menit. Alasan: 1!
+[29/05/2022 - 13:20:41] - [Vehicle]: Bella Cristine membuat kendaraan id 560 ke Bella Cristine!
+[29/05/2022 - 13:51:47] - [Garkot]: Clairo Stevano membuat garkot id 5!
+[29/05/2022 - 13:53:06] - [House]: Clairo Stevano membuat house id 111!
+[29/05/2022 - 15:42:45] - Admin: Clairo Stevano mengeluarkan Clairo Stevano dari ketu fraksi!
+[29/05/2022 - 15:43:16] - [Family]: Clairo Stevano membuat family id 0!
+[29/05/2022 - 15:48:58] - [Vehicle]: Clairo Stevano membuat kendaraan id 402 ke Clairo Stevano!
+[29/05/2022 - 15:49:28] - [Vehicle]: Clairo Stevano membuat kendaraan id 415 ke Clairo Stevano!
+[29/05/2022 - 15:56:21] - [House]: Clairo Stevano membuat house id 112!
+[03/06/2022 - 06:25:52] - Admin: Emmilia Charlotte menyetel level Emmilia Charlotte ke level 100!
+[03/06/2022 - 06:26:02] - Admin: Emmilia Charlotte memberikan senjata Desert Eagle(100) ke Emmilia Charlotte!
+[03/06/2022 - 06:26:09] - Admin: Emmilia Charlotte menyetel ketua faction id 1 ke Emmilia Charlotte!
+[03/06/2022 - 06:31:53] - Admin: Emmilia Charlotte menyetel level admin 6 ke Jhono Yoo!
+[03/06/2022 - 06:37:21] - Admin: Emmilia Charlotte menyetel level admin 6 ke Jhono Yoo!
+[03/06/2022 - 06:37:36] - Admin: Emmilia Charlotte memberikan senjata M4(100) ke Isac Guillen!
+[03/06/2022 - 06:37:38] - Admin: Jhono Yoo memberikan senjata AK47(100) ke Jhono Yoo!
+[03/06/2022 - 06:39:38] - Admin: Jhono Yoo menyetel hp Jhono Yoo!
+[06/06/2022 - 03:53:50] - [Vehicle]: Jhono Yoo membuat kendaraan id 560 ke Jhono Yoo!
+[06/06/2022 - 05:07:21] - Admin: Emmilia Charlotte memberikan uang $1,000 ke Emmilia Charlotte!
+[06/06/2022 - 05:43:48] - Admin: Emmilia Charlotte menyetel uang $100,000 ke Emmilia Charlotte!
+[08/06/2022 - 02:41:10] - Admin: Emmilia Charlotte menyetel ketua faction id 1 ke Jhono Yoo!
+[08/06/2022 - 02:42:11] - Admin: Jhono Yoo menyetel hp Jhono Yoo!
+[08/06/2022 - 02:42:23] - Admin: Emmilia Charlotte menyetel hp Jhono Yoo!
+[08/06/2022 - 02:43:47] - Admin: Jhono Yoo menyetel hp Jhono Yoo!
+[08/06/2022 - 03:07:37] - Admin: Emmilia Charlotte menyetel hp Emmilia Charlotte!
+[11/06/2022 - 04:25:58] - Admin: Jhono Yoo menyetel uang $100,000 ke Jhono Yoo!
+[11/06/2022 - 04:27:14] - Admin: Jhono Yoo menyetel hp Jhono Yoo!
+[11/06/2022 - 04:28:01] - Admin: Jhono Yoo menyetel ketua faction id 5 ke Jhono Yoo!
+[11/06/2022 - 04:29:11] - Admin: Jhono Yoo menyetel level Jhono Yoo ke level 5!
+[11/06/2022 - 04:38:49] - Admin: Emmilia Charlotte menyetel ketua faction id 5 ke Emmilia Charlotte!
+[04/07/2023 - 08:00:34] - Admin: Zuo Yousuke mengganti nama Lilly Lynch menjadi Lvy_Lynch!
+[04/07/2023 - 08:00:54] - Admin: Zuo Yousuke mengganti nama Lvy Lynch menjadi Ivy_Lynch!
+[04/07/2023 - 08:07:38] - Admin: Zuo Yousuke mengganti nama Ivy Lynch menjadi Senna_Joeylee!
+[04/07/2023 - 08:16:02] - Admin: Zuo memberi Ventazel Dacamorra jail selama 5 menit. Alasan: GZ!
+[04/07/2023 - 08:16:37] - Admin: Zuo merilis Ventazel Dacamorra dari penjara
+[04/07/2023 - 08:21:20] - Admin: Zuo Yousuke menyetel level Zuo Yousuke ke level 14!
+[04/07/2023 - 08:21:36] - Admin: Idaan Somewire menyetel level Abuy Dacamora ke level 50!
+[04/07/2023 - 08:22:03] - Admin: Idaan Somewire menyetel level Abuy Dacamora ke level 0!
+[04/07/2023 - 08:22:19] - Admin: Zuo Yousuke menyetel level Abuy Dacamora ke level 2!
+[04/07/2023 - 08:22:31] - Admin: Idaan Somewire menyetel level Idaan Somewire ke level 50!
+[04/07/2023 - 08:22:33] - Admin: Zuo Yousuke menyetel level Abuy Dacamora ke level 4!
+[04/07/2023 - 08:36:48] - Admin: Fly mengganti nama L Pratama menjadi El_Pratama!
+[04/07/2023 - 08:40:00] - Admin: Owen Nascimento memberi Joko Simanjuntak jail selama 15 menit!
+[04/07/2023 - 08:40:03] - Admin: Owen Nascimento merilis Joko Simanjuntak dari penjara
+[04/07/2023 - 09:00:55] - Admin: Fly menyetel ketua faction id 1 ke Fly!
+[04/07/2023 - 09:01:43] - Admin: Zeelyn. memberi Bobee DeCosa jail selama 1 menit. Alasan: BUG!
+[04/07/2023 - 09:02:27] - Admin: Zeelyn. merilis Bobee DeCosa dari penjara
+[04/07/2023 - 09:04:55] - Admin: Rafly Paleka menyetel ketua faction id 3 ke Rafly Paleka!
+[04/07/2023 - 09:05:04] - Admin: Rafly Paleka menyetel ketua faction id 1 ke Rafly Paleka!
+[04/07/2023 - 09:05:18] - Admin: Rafly Paleka menyetel ketua faction id 3 ke Rafly Paleka!
+[04/07/2023 - 09:10:38] - Admin: Fly menyetel Component jumlah 53!
+[04/07/2023 - 09:11:29] - Admin: Owen Nascimento memberi Azel Cooper jail selama 10 menit. Alasan: ask bukan untuk maen maen !
+[04/07/2023 - 09:17:41] - Admin: Owen Nascimento memberi Isco Dvinzi jail selama 15 menit. Alasan: ritat!
+[04/07/2023 - 09:17:55] - Admin: Owen Nascimento menyetel hp Owen Nascimento!
+[04/07/2023 - 09:17:58] - Admin: Owen Nascimento menyetel armor Owen Nascimento!
+[04/07/2023 - 09:19:01] - Admin: Owen Nascimento merilis Isco Dvinzi dari penjara
+[04/07/2023 - 09:19:56] - Admin: Zuo Yousuke memberi Azke Winata jail selama 1 menit. Alasan: bug!
+[04/07/2023 - 09:20:01] - Admin: Zuo Yousuke merilis Azke Winata dari penjara
+[04/07/2023 - 09:23:11] - Admin: Zuo Yousuke menyetel uang $0 ke Zuo Yousuke!
+[04/07/2023 - 09:29:30] - Admin: Zuo Yousuke mengganti nama Lvy Lynch menjadi Senna_Joeylee!
+[04/07/2023 - 09:43:52] - Admin: Juju menyetel material jumlah 53!
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:47:58] - Admin: idaan memberikan uang kesemua player sejumlah $1
+[04/07/2023 - 09:55:13] - [Garkot]: Sony membuat garkot id 35!
+[04/07/2023 - 09:58:36] - Admin: Sony menyetel hp Benjamin Xavier!
+[04/07/2023 - 09:59:07] - Admin: Sony menyetel hp Benjamin Xavier!
+[04/07/2023 - 09:59:48] - Admin: GonnZee Basilius memberi Yohan_Gabriel jail(offline) selama 1 menit. Alasan: BUG!
+[04/07/2023 - 10:02:03] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:02:27] - Admin: Sony menyetel hp Sony!
+[04/07/2023 - 10:04:20] - Admin: Idaan Somewire memberikan senjata Rocket Launcher(50) ke Idaan Somewire!
+[04/07/2023 - 10:04:50] - Admin: Sony menyetel hp Sony!
+[04/07/2023 - 10:04:59] - Admin: Idaan Somewire menyetel hp Idaan Somewire!
+[04/07/2023 - 10:05:07] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[04/07/2023 - 10:05:44] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[04/07/2023 - 10:05:51] - Admin: Sony menyetel hp Sony!
+[04/07/2023 - 10:05:53] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:06:36] - Admin: Owen Nascimento memberi Clajek Stark jail selama 15 menit!
+[04/07/2023 - 10:06:39] - Admin: Owen Nascimento merilis Clajek Stark dari penjara
+[04/07/2023 - 10:06:49] - Admin: Sony menyetel hp Sony!
+[04/07/2023 - 10:06:54] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:07:13] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[04/07/2023 - 10:07:21] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:07:23] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:07:25] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:07:30] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:07:33] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:07:33] - Admin: Sony menyetel hp Sony!
+[04/07/2023 - 10:07:35] - Admin: Sony menyetel hp Sony!
+[04/07/2023 - 10:07:36] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:07:38] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:07:39] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:07:41] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:07:41] - Admin: Sony menyetel hp Sony!
+[04/07/2023 - 10:07:42] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:07:49] - Admin: Fly menyetel hp Fly!
+[04/07/2023 - 10:11:28] - Admin: Sony menyetel hp Sony!
+[04/07/2023 - 10:19:11] - Admin: Idaan Somewire memberikan senjata Rocket Launcher(50) ke Idaan Somewire!
+[04/07/2023 - 10:44:56] - Admin: GonnZee Basilius menyetel hp Hans Drian!
+[04/07/2023 - 10:46:30] - Admin: Zeelyn. memberi Azke_Winata jail(offline) selama 1 menit. Alasan: BUG FC!
+[04/07/2023 - 10:56:47] - Admin: Zeelyn. memberi Azke Winata jail selama 1 menit. Alasan: bug!
+[04/07/2023 - 10:57:46] - Admin: Zeelyn. merilis Azke Winata dari penjara
+[04/07/2023 - 11:07:02] - Admin: GonnZee Basilius menyetel hp Hans Drian!
+[04/07/2023 - 11:07:13] - Admin: GonnZee Basilius menyetel hp Hans Drian!
+[04/07/2023 - 11:13:06] - Admin: Zuo Yousuke menyetel hp Zuo Yousuke!
+[04/07/2023 - 11:25:52] - Admin: Zuo Yousuke banned IP 140.213.7.87!
+[04/07/2023 - 11:27:31] - Admin: GonnZee Basilius menyetel hp Hans Drian!
+[04/07/2023 - 11:41:12] - Admin: Juju memberikan uang kesemua player sejumlah $10,000
+[04/07/2023 - 11:41:12] - Admin: Juju memberikan uang kesemua player sejumlah $10,000
+[04/07/2023 - 11:41:12] - Admin: Juju memberikan uang kesemua player sejumlah $10,000
+[04/07/2023 - 11:41:12] - Admin: Juju memberikan uang kesemua player sejumlah $10,000
+[04/07/2023 - 11:41:12] - Admin: Juju memberikan uang kesemua player sejumlah $10,000
+[04/07/2023 - 15:06:45] - Admin: Zuo Yousuke menyetel hp Zuo Yousuke!
+[04/07/2023 - 15:14:35] - Admin: Zuo Yousuke memberikan uang kesemua player sejumlah $10,000
+[04/07/2023 - 15:14:35] - Admin: Zuo Yousuke memberikan uang kesemua player sejumlah $10,000
+[04/07/2023 - 15:15:40] - Admin: Zuo Yousuke menyetel hp Zuo Yousuke!
+[04/07/2023 - 19:56:20] - Admin: Venzy Gerard memberikan senjata Minigun(10) ke Venzy Gerard!
+[04/07/2023 - 19:56:31] - Admin: Venzy Gerard memberikan senjata AK47(10) ke Venzy Gerard!
+[04/07/2023 - 20:01:25] - [Family]: Kysa membuat family id 8!
+[04/07/2023 - 20:16:08] - [House]: Venzy Gerard membuat house id 18!
+[04/07/2023 - 20:19:45] - [House]: Venzy Gerard menghapus house id 18!
+[04/07/2023 - 20:19:55] - [House]: Venzy Gerard membuat house id 18!
+[04/07/2023 - 20:26:29] - [House]: Kysa menghapus house id 18!
+[04/07/2023 - 20:28:07] - Admin: Kysa memberikan senjata Desert Eagle(150) ke Kenzo Akira!
+[04/07/2023 - 20:28:21] - Admin: Kysa memberikan senjata Desert Eagle(150) ke Kenzo Akira!
+[04/07/2023 - 20:28:25] - Admin: Kysa memberikan senjata Desert Eagle(150) ke Kenzo Akira!
+[04/07/2023 - 20:28:27] - Admin: Kysa memberikan senjata Desert Eagle(150) ke Kenzo Akira!
+[04/07/2023 - 20:28:31] - Admin: Kysa memberikan senjata Desert Eagle(150) ke Kenzo Akira!
+[04/07/2023 - 20:28:37] - Admin: Kysa memberikan senjata Desert Eagle(150) ke Kenzo Akira!
+[04/07/2023 - 20:33:21] - Admin: Kysa menyetel material jumlah 49!
+[04/07/2023 - 20:50:00] - [Garkot]: Sony membuat garkot id 36!
+[04/07/2023 - 21:43:33] - Admin: Idaan Somewire memberi Bryan Oconer jail selama 30 menit. Alasan: Baca rules!
+[04/07/2023 - 21:44:52] - [Vehicle]: idaan membuat kendaraan id 434 ke Kenzo Akira!
+[04/07/2023 - 21:48:07] - Admin: Owen Nascimento memberikan senjata Desert Eagle(150) ke Owen Nascimento!
+[04/07/2023 - 21:49:19] - Admin: Owen Nascimento menyetel hp Owen Nascimento!
+[04/07/2023 - 21:49:23] - Admin: Owen Nascimento menyetel armor Owen Nascimento!
+[04/07/2023 - 21:55:25] - Admin: idaan menyetel ketua faction id 4 ke Tanara Kazawa!
+[04/07/2023 - 22:39:11] - Admin: Senna Joeylee menyetel hp Senna Joeylee!
+[04/07/2023 - 22:41:50] - Admin: Owen Nascimento menyetel component jumlah 53!
+[04/07/2023 - 22:55:50] - Admin: Owen Nascimento memberi Zakyy Saputra jail selama 15 menit!
+[04/07/2023 - 22:55:53] - Admin: Owen Nascimento merilis Zakyy Saputra dari penjara
+[04/07/2023 - 23:16:27] - Admin: Sony menyetel component jumlah 53!
+[04/07/2023 - 23:27:55] - Admin: Sony Yoman menyetel material jumlah 53!
+[04/07/2023 - 23:31:54] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[05/07/2023 - 00:03:42] - Admin: Owen Nascimento memberi William Xanderz jail selama 15 menit!
+[05/07/2023 - 00:03:45] - Admin: Owen Nascimento merilis William Xanderz dari penjara
+[05/07/2023 - 00:13:27] - Admin: Owen Nascimento menyetel material jumlah 53!
+[05/07/2023 - 00:14:21] - Admin: Owen Nascimento menyetel material jumlah 49!
+[05/07/2023 - 00:14:47] - Admin: Senna Joeylee menyetel hp Marc Marcus!
+[05/07/2023 - 00:34:33] - Admin: Owen Nascimento memberikan senjata Desert Eagle(100) ke Owen Nascimento!
+[05/07/2023 - 00:44:22] - Admin: Venzy Gerard menyetel armor Venzy Gerard!
+[05/07/2023 - 00:44:54] - Admin: Venzy Gerard menyetel hp Venzy Gerard!
+[05/07/2023 - 00:53:18] - Admin: Owen Nascimento memberi Edgard_Narsheem jail(offline) selama 1 menit. Alasan: bug!
+[05/07/2023 - 01:18:41] - Admin: Zuo Yousuke menyetel hp Zuo Yousuke!
+[05/07/2023 - 01:21:10] - [Garkot]: Juju membuat garkot id 37!
+[05/07/2023 - 01:24:18] - Admin: Juju memberikan uang $100,000 ke Tama Avocado!
+[05/07/2023 - 02:36:58] - [Vehicle]: Owen Nascimento membuat kendaraan id 560 ke Zakyy Saputra!
+[05/07/2023 - 02:41:07] - Admin: Owen Nascimento banned Boy Gerard selama 7 hari Alasan: Autoaim!
+[05/07/2023 - 02:46:00] - Admin: Owen Nascimento menyetel hp Benjamin Xavier!
+[05/07/2023 - 02:46:05] - Admin: Owen Nascimento menyetel armor Benjamin Xavier!
+[05/07/2023 - 02:46:52] - Admin: Owen Nascimento menyetel armor Owen Nascimento!
+[05/07/2023 - 03:03:25] - Admin: Owen Nascimento banned permanen Adler Braun Alasan: Spawn gun!
+[05/07/2023 - 03:24:00] - Admin: Fly menyetel level Tama Avocado ke level 4!
+[05/07/2023 - 03:30:17] - Admin: Owen Nascimento menyetel level Raiden Anderson ke level 3!
+[05/07/2023 - 03:35:49] - Admin: Fly memberi Charlote Morgan jail selama 20 menit. Alasan: SPEED HACKING MOTOR KAYAK PESAWAT ZET LARINYA!
+[05/07/2023 - 04:49:49] - Admin: Owen Nascimento memberi Vincent Jacob jail selama 15 menit!
+[05/07/2023 - 04:49:52] - Admin: Owen Nascimento merilis Vincent Jacob dari penjara
+[05/07/2023 - 04:50:05] - Admin: Owen Nascimento memberi Rafens Stuart jail selama 15 menit!
+[05/07/2023 - 04:50:12] - Admin: Owen Nascimento merilis Rafens Stuart dari penjara
+[05/07/2023 - 04:50:59] - Admin: Owen Nascimento menyetel hp Owen Nascimento!
+[05/07/2023 - 04:51:05] - Admin: Owen Nascimento menyetel armor Owen Nascimento!
+[05/07/2023 - 05:07:12] - Admin: idaan memberikan senjata Camera(1) ke Tanara Kazawa!
+[05/07/2023 - 05:10:23] - Admin: idaan menyetel ketua faction id 4 ke idaan!
+[05/07/2023 - 05:11:40] - Admin: idaan memberikan senjata Camera(1) ke Tanara Kazawa!
+[05/07/2023 - 05:11:47] - Admin: idaan memberikan senjata Camera(500) ke Tanara Kazawa!
+[05/07/2023 - 05:16:43] - Admin: idaan menyetel ketua faction id 1 ke idaan!
+[05/07/2023 - 05:32:09] - Admin: Fly memberi Carloz Stevano jail selama 5 menit. Alasan: DIBILANG GAUSAH PM KLO MAU TANYA /ASK !
+[05/07/2023 - 05:36:33] - Admin: Owen Nascimento memberikan senjata Desert Eagle(150) ke Owen Nascimento!
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:15] - Admin: idaan memberikan uang kesemua player sejumlah $250
+[05/07/2023 - 05:54:38] - Admin: Owen Nascimento memberi Marc Marcus jail selama 15 menit!
+[05/07/2023 - 05:54:40] - Admin: Owen Nascimento merilis Marc Marcus dari penjara
+[05/07/2023 - 05:56:42] - Admin: Owen Nascimento memberikan senjata Desert Eagle(150) ke Benjamin Xavier!
+[05/07/2023 - 06:01:03] - Admin: Owen Nascimento menyetel level Hanari Antonio ke level 3!
+[05/07/2023 - 06:01:20] - Admin: Owen Nascimento menyetel level Stevanus Antonio ke level 3!
+[05/07/2023 - 06:09:13] - Admin: Venzy Gerard memberi Leon_Gerard jail(offline) selama 1 menit. Alasan: BUG FC!
+[05/07/2023 - 06:11:18] - Admin: Ferdy Claucius menyetel ketua faction id 1 ke Ferdy Claucius!
+[05/07/2023 - 06:12:27] - Admin: Ferdy menyetel uang $6,700 ke Alexi Nicholas!
+[05/07/2023 - 06:13:49] - Admin: Owen Nascimento memberikan senjata Desert Eagle(100) ke Johan Leonhart!
+[05/07/2023 - 06:15:55] - [Family]: Sony membuat family id 9!
+[05/07/2023 - 06:25:13] - [Family]: Venzy Gerard membuat family id 10!
+[05/07/2023 - 06:25:33] - [House]: Venzy Gerard membuat house id 18!
+[05/07/2023 - 06:26:41] - [House]: Venzy Gerard menghapus house id 18!
+[05/07/2023 - 06:27:21] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Ganz Stefano!
+[05/07/2023 - 06:27:51] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Ganz Stefano!
+[05/07/2023 - 06:28:02] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Ganz Stefano!
+[05/07/2023 - 06:28:06] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Ganz Stefano!
+[05/07/2023 - 06:28:13] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Ganz Stefano!
+[05/07/2023 - 06:28:16] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Ganz Stefano!
+[05/07/2023 - 06:29:17] - [Garkot]: Venzy Gerard membuat garkot id 38!
+[05/07/2023 - 06:31:10] - Admin: Owen Nascimento memberikan senjata Desert Eagle(150) ke Owen Nascimento!
+[05/07/2023 - 06:31:39] - Admin: Venzy Gerard memberi Abuy_Dacamora jail(offline) selama 1 menit. Alasan: BUG FC!
+[05/07/2023 - 06:31:56] - Admin: Venzy Gerard memberi Yohan_Gabriel jail(offline) selama 1 menit. Alasan: BUG FC!
+[05/07/2023 - 06:36:34] - Admin: Zuo Yousuke mengeluarkan Zuo Yousuke dari ketu fraksi!
+[05/07/2023 - 06:36:48] - Admin: idaan memberi Rafly_Paleka jail(offline) selama 50 menit. Alasan: BUG!
+[05/07/2023 - 06:40:24] - Admin: GonnZee Basilius memberi Yohan_Gabriel jail(offline) selama 1 menit. Alasan: FC!
+[05/07/2023 - 06:40:50] - Admin: idaan memberikan senjata TEC9(500) ke idaan!
+[05/07/2023 - 06:40:59] - Admin: idaan menyetel hp idaan!
+[05/07/2023 - 06:41:04] - Admin: idaan menyetel armor idaan!
+[05/07/2023 - 06:42:26] - Admin: GonnZee Basilius memberi Zakyy Saputra jail selama 1 menit. Alasan: VISU!
+[05/07/2023 - 06:43:05] - Admin: Juju merilis Zakyy Saputra dari penjara
+[05/07/2023 - 06:46:21] - Admin: Juju menyetel ketua faction id 1 ke Juju!
+[05/07/2023 - 06:48:12] - Admin: Zuo Yousuke menyetel armor Zuo Yousuke!
+[05/07/2023 - 06:48:57] - Admin: Idaan Somewire memberikan senjata AK47(500) ke Idaan Somewire!
+[05/07/2023 - 06:49:25] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[05/07/2023 - 06:50:30] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[05/07/2023 - 06:50:35] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[05/07/2023 - 06:54:44] - Admin: Rafly Paleka memberi Marc Marcus jail selama 1 menit. Alasan: bug!
+[05/07/2023 - 06:55:02] - Admin: Rafly Paleka merilis Marc Marcus dari penjara
+[05/07/2023 - 06:58:25] - Admin: Ferdy Claucius memberi Venzy Gerard jail selama 1 menit. Alasan: bug!
+[05/07/2023 - 06:58:37] - Admin: Ferdy Claucius merilis Venzy Gerard dari penjara
+[05/07/2023 - 06:58:59] - Admin: Venzy Gerard menyetel armor Venzy Gerard!
+[05/07/2023 - 06:59:05] - Admin: Venzy Gerard menyetel hp Venzy Gerard!
+[05/07/2023 - 07:03:49] - Admin: Ryujin menyetel armor Ryujin!
+[05/07/2023 - 07:13:23] - Admin: Zuo Yousuke memberikan uang $20,000 ke Azke Winata!
+[05/07/2023 - 07:31:31] - Admin: Sony menyetel hp Sony!
+[05/07/2023 - 08:20:18] - Admin: Sony menyetel hp Garry Clooney!
+[05/07/2023 - 08:20:30] - Admin: Sony menyetel hp Sony!
+[05/07/2023 - 08:29:55] - Admin: Ryujin memberi Tama Avocado jail selama 15 menit!
+[05/07/2023 - 08:29:58] - Admin: Ryujin merilis Tama Avocado dari penjara
+[05/07/2023 - 08:30:11] - Admin: Sony memberi GonnZee Basilius jail selama 1 menit!
+[05/07/2023 - 08:30:15] - Admin: GonnZee Basilius memberi Tama Avocado jail selama 1 menit. Alasan: .!
+[05/07/2023 - 08:31:04] - Admin: Sony merilis GonnZee Basilius dari penjara
+[05/07/2023 - 08:34:56] - Admin: Fly banned Kosta Kecmanovic selama 999 hari Alasan: ARMOR HACK!
+[05/07/2023 - 08:42:16] - Admin: Sony memberi Azke Winata jail selama 1 menit. Alasan: bug!
+[05/07/2023 - 08:42:27] - Admin: Sony merilis Azke Winata dari penjara
+[05/07/2023 - 09:07:22] - [House]: idaan membuat house id 18!
+[05/07/2023 - 09:10:35] - Admin: Zuo Yousuke memberikan uang $100,000 ke Zuo Yousuke!
+[05/07/2023 - 09:13:06] - Admin: Zuo Yousuke memberikan uang $100,000 ke Zuo Yousuke!
+[05/07/2023 - 09:13:06] - Admin: Zuo Yousuke memberikan uang $100,000 ke Zuo Yousuke!
+[05/07/2023 - 09:13:07] - Admin: Zuo Yousuke memberikan uang $100,000 ke Zuo Yousuke!
+[05/07/2023 - 09:13:07] - Admin: Zuo Yousuke memberikan uang $100,000 ke Zuo Yousuke!
+[05/07/2023 - 09:18:52] - [Vehicle]: idaan membuat kendaraan id 568 ke Ganz Stefano!
+[05/07/2023 - 09:21:29] - [Garkot]: Sony membuat garkot id 39!
+[05/07/2023 - 09:32:55] - Admin: Idaan Somewire memberikan senjata Parachute(500) ke Idaan Somewire!
+[05/07/2023 - 09:33:03] - Admin: Idaan Somewire memberikan senjata Parachute(500) ke Senna Joeylee!
+[05/07/2023 - 09:38:50] - Admin: Idaan Somewire memberikan senjata Parachute(500) ke Idaan Somewire!
+[05/07/2023 - 09:38:55] - Admin: Idaan Somewire memberikan senjata Parachute(500) ke Rizz Oconner!
+[05/07/2023 - 09:38:58] - Admin: Idaan Somewire memberikan senjata Parachute(500) ke Senna Joeylee!
+[05/07/2023 - 09:40:30] - Admin: Idaan Somewire kicked Senna Joeylee Alasan: turu!
+[05/07/2023 - 09:53:09] - Admin: Fly menyetel Component jumlah 53!
+[05/07/2023 - 10:06:12] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[05/07/2023 - 10:06:12] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[05/07/2023 - 10:06:12] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[05/07/2023 - 10:06:12] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[05/07/2023 - 10:06:12] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[05/07/2023 - 10:06:12] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[05/07/2023 - 10:06:12] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[05/07/2023 - 10:06:12] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[05/07/2023 - 10:06:12] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[05/07/2023 - 10:06:12] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[05/07/2023 - 10:06:12] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[05/07/2023 - 10:21:55] - Admin: Fly memberi Azke Winata jail selama 1 menit. Alasan: bug!
+[05/07/2023 - 10:22:05] - Admin: Fly merilis Azke Winata dari penjara
+[05/07/2023 - 10:28:01] - Admin: Fly menyetel hp Fly!
+[05/07/2023 - 10:28:13] - Admin: Fly menyetel armor Fly!
+[05/07/2023 - 10:28:14] - Admin: Andrean menyetel armor Joko Simanjuntak!
+[05/07/2023 - 10:28:22] - Admin: Fly menyetel hp Tama Caramel!
+[05/07/2023 - 10:28:27] - Admin: Andrean menyetel armor Andrean!
+[05/07/2023 - 10:32:38] - Admin: Zuo Yousuke unban ucp RemsTzy dari server!
+[05/07/2023 - 10:33:02] - Admin: Andrean menyetel hp Azke Winata!
+[05/07/2023 - 10:35:13] - Admin: Fly menyetel hp Fly!
+[05/07/2023 - 10:42:44] - Admin: Fly menyetel hp Fly!
+[05/07/2023 - 10:43:40] - Admin: Fly banned Farel Syauqi selama 999 hari Alasan: WEAPON HACK!
+[05/07/2023 - 10:49:50] - Admin: Rafly Paleka menyetel hp Tama Caramel!
+[05/07/2023 - 10:52:47] - Admin: Rafly Paleka menyetel hp Rafly Paleka!
+[05/07/2023 - 10:52:55] - Admin: Rafly Paleka menyetel hp Rafly Paleka!
+[05/07/2023 - 10:53:53] - Admin: Rafly Paleka menyetel hp Rafly Paleka!
+[05/07/2023 - 10:57:39] - Admin: Rafly Paleka memberi Azel Cooper jail selama 1 menit. Alasan: T!
+[05/07/2023 - 11:05:37] - Admin: Rafly Paleka banned permanen Franky Stevano Alasan: WEAPON HACK!
+[05/07/2023 - 11:15:11] - Admin: Rafly Paleka memberikan senjata Desert Eagle(100) ke Reyy Stevano!
+[05/07/2023 - 11:15:20] - Admin: Rafly Paleka memberikan senjata Desert Eagle(100) ke Tama Caramel!
+[05/07/2023 - 11:15:32] - Admin: Rafly Paleka menyetel hp Tama Caramel!
+[05/07/2023 - 11:15:34] - Admin: Rafly Paleka menyetel hp Tama Caramel!
+[05/07/2023 - 11:16:38] - Admin: Rafly Paleka menyetel hp Reyy Stevano!
+[05/07/2023 - 11:16:43] - Admin: Rafly Paleka menyetel hp Rafly Paleka!
+[05/07/2023 - 11:22:13] - Admin: Rafly Paleka menyetel armor Rafly Paleka!
+[05/07/2023 - 11:32:26] - Admin: Rafly Paleka menyetel hp Reyy Stevano!
+[05/07/2023 - 11:42:06] - Admin: Rafly Paleka menyetel hp Bobee DeCosa!
+[05/07/2023 - 12:23:10] - Admin: Rafly Paleka menyetel hp Rafly Paleka!
+[05/07/2023 - 12:23:25] - Admin: Rafly Paleka menyetel hp Rafly Paleka!
+[05/07/2023 - 12:26:13] - Admin: Rafly Paleka menyetel hp Rafly Paleka!
+[05/07/2023 - 12:27:53] - Admin: Rafly Paleka menyetel hp Rafly Paleka!
+[05/07/2023 - 12:32:38] - Admin: Rafly Paleka memberikan senjata Rocket Launcher(100) ke Rafly Paleka!
+[05/07/2023 - 12:38:53] - Admin: Rafly Paleka menyetel hp Reyy Stevano!
+[05/07/2023 - 12:39:09] - Admin: Rafly Paleka menyetel hp Reyy Stevano!
+[05/07/2023 - 12:40:17] - Admin: Rafly Paleka menyetel hp Rafly Paleka!
+[05/07/2023 - 12:40:30] - Admin: Rafly Paleka menyetel hp Yoot Boyz!
+[05/07/2023 - 21:57:36] - Admin: Venzy Gerard menyetel hp Venzy Gerard!
+[05/07/2023 - 22:30:29] - Admin: Venzy Gerard mengganti nama Dekky Renjiro menjadi Darren_Fernandez!
+[05/07/2023 - 22:34:22] - Admin: Venzy Gerard menyetel hp Venzy Gerard!
+[05/07/2023 - 23:22:12] - Admin: Venzy Gerard menyetel hp Venzy Gerard!
+[05/07/2023 - 23:31:03] - Admin: Kysa memberikan senjata AK47(10) ke Kysa!
+[05/07/2023 - 23:46:12] - Admin: Venzy Gerard memberikan senjata M4(10) ke Venzy Gerard!
+[05/07/2023 - 23:46:28] - Admin: Venzy Gerard memberikan senjata Rocket Launcher(10) ke Venzy Gerard!
+[05/07/2023 - 23:46:59] - Admin: Venzy Gerard memberikan senjata Nite Stick(250) ke Venzy Gerard!
+[05/07/2023 - 23:47:04] - Admin: Venzy Gerard memberikan senjata TEC9(1) ke Venzy Gerard!
+[05/07/2023 - 23:47:08] - Admin: Venzy Gerard memberikan senjata TEC9(10) ke Venzy Gerard!
+[05/07/2023 - 23:47:16] - Admin: Venzy Gerard memberikan senjata Rifle(10) ke Venzy Gerard!
+[05/07/2023 - 23:53:07] - Admin: Juju kicked Ganz Stefano Alasan: afk ratusan jam!
+[06/07/2023 - 00:19:16] - Admin: Idaan Somewire memberikan senjata Rocket Launcher(500) ke Idaan Somewire!
+[06/07/2023 - 00:19:57] - Admin: Venzy Gerard memberikan senjata Minigun(10) ke Venzy Gerard!
+[06/07/2023 - 00:20:29] - Admin: Idaan Somewire menyetel hp Idaan Somewire!
+[06/07/2023 - 00:20:39] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[06/07/2023 - 00:22:28] - Admin: Senna Joeylee menyetel hp Yura Chizura!
+[06/07/2023 - 00:42:05] - Admin: Idaan Somewire memberikan senjata Thermal Goggles(100) ke Idaan Somewire!
+[06/07/2023 - 00:42:18] - Admin: Idaan Somewire memberikan senjata Camera(100) ke Idaan Somewire!
+[06/07/2023 - 00:42:23] - Admin: Idaan Somewire memberikan senjata Knife(250) ke Idaan Somewire!
+[06/07/2023 - 00:43:39] - Admin: Idaan Somewire memberikan senjata Parachute(100) ke Idaan Somewire!
+[06/07/2023 - 00:43:44] - Admin: Idaan Somewire memberikan senjata Parachute(100) ke Yura Chizura!
+[06/07/2023 - 00:51:50] - Admin: Rafly Paleka menyetel food jumlah 53!
+[06/07/2023 - 01:16:34] - Admin: Owen Nascimento memberi Rafly Paleka jail selama 15 menit!
+[06/07/2023 - 01:16:44] - Admin: Rafly Paleka merilis Rafly Paleka dari penjara
+[06/07/2023 - 01:18:41] - Admin: Ferdy menyetel hp Ferdy!
+[06/07/2023 - 01:52:50] - Admin: Owen Nascimento memberi Ziel DeLorean jail selama 15 menit!
+[06/07/2023 - 01:52:54] - Admin: Owen Nascimento merilis Ziel DeLorean dari penjara
+[06/07/2023 - 02:06:36] - Admin: Ryujin memberi Isco Dvinzi jail selama 15 menit!
+[06/07/2023 - 02:06:37] - Admin: Fly banned permanen Ziel DeLorean Alasan: TELEPORT HACK!
+[06/07/2023 - 02:06:43] - Admin: Ryujin merilis Isco Dvinzi dari penjara
+[06/07/2023 - 02:08:48] - Admin: Ryujin memberikan uang $10,000 ke Joko Simanjuntak!
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:08:49] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:09:17] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 02:11:34] - Admin: Ryujin memberikan uang $10,000 ke Bahar Amexx!
+[06/07/2023 - 02:13:52] - Admin: Zeelyn. menyetel hp Zeelyn.!
+[06/07/2023 - 02:16:37] - Admin: Zeelyn. menyetel hp Joko Simanjuntak!
+[06/07/2023 - 02:18:06] - Admin: Zeelyn. memberi Tama Caramel jail selama 1 menit. Alasan: bug!
+[06/07/2023 - 02:18:10] - Admin: Zeelyn. merilis Tama Caramel dari penjara
+[06/07/2023 - 02:19:07] - Admin: Zeelyn. memberi William Xanderz jail selama 1 menit. Alasan: BUG!
+[06/07/2023 - 02:19:23] - Admin: Zeelyn. merilis William Xanderz dari penjara
+[06/07/2023 - 02:25:01] - Admin: Ryujin memberi Zakyy Saputra jail selama 15 menit!
+[06/07/2023 - 02:25:04] - Admin: Ryujin merilis Zakyy Saputra dari penjara
+[06/07/2023 - 02:28:17] - Admin: Ryujin memberi Johan Leonhart jail selama 15 menit!
+[06/07/2023 - 02:28:22] - Admin: Ryujin merilis Johan Leonhart dari penjara
+[06/07/2023 - 02:33:49] - Admin: Ryujin memberikan uang $30,000 ke Zakyy Saputra!
+[06/07/2023 - 02:35:22] - Admin: Ryujin memberikan uang $20,000 ke Ambon DeCastillo!
+[06/07/2023 - 02:44:45] - [House]: Ryujin membuat house id 115!
+[06/07/2023 - 02:46:41] - [House]: Ryujin menghapus house id 115!
+[06/07/2023 - 02:47:04] - [House]: Ryujin membuat house id 115!
+[06/07/2023 - 02:49:08] - [House]: Ryujin membuat house id 116!
+[06/07/2023 - 06:17:00] - Admin: Ferdy menyetel hp Ferdy!
+[06/07/2023 - 06:33:16] - Admin: Idaan Somewire memberikan senjata Desert Eagle(150) ke Idaan Somewire!
+[06/07/2023 - 06:33:45] - Admin: Idaan Somewire memberikan senjata Desert Eagle(100) ke Idaan Somewire!
+[06/07/2023 - 06:33:54] - Admin: Idaan Somewire memberikan senjata Desert Eagle(70) ke Idaan Somewire!
+[06/07/2023 - 06:34:06] - Admin: Idaan Somewire memberikan senjata Desert Eagle(25) ke Idaan Somewire!
+[06/07/2023 - 06:34:13] - Admin: Idaan Somewire memberikan senjata Desert Eagle(300) ke Idaan Somewire!
+[06/07/2023 - 06:34:22] - Admin: Idaan Somewire memberikan senjata Desert Eagle(200) ke Idaan Somewire!
+[06/07/2023 - 06:34:32] - Admin: Idaan Somewire memberikan senjata Desert Eagle(111) ke Idaan Somewire!
+[06/07/2023 - 06:34:40] - Admin: Idaan Somewire memberikan senjata Desert Eagle(110) ke Idaan Somewire!
+[06/07/2023 - 06:34:53] - Admin: Idaan Somewire memberikan senjata Desert Eagle(50) ke Idaan Somewire!
+[06/07/2023 - 06:34:59] - Admin: Idaan Somewire memberikan senjata Desert Eagle(50) ke Idaan Somewire!
+[06/07/2023 - 06:35:09] - Admin: Idaan Somewire memberikan senjata Desert Eagle(30) ke Idaan Somewire!
+[06/07/2023 - 06:37:29] - Admin: Sony Yoman memberi Johan Leonhart jail selama 1 menit. Alasan: bug !
+[06/07/2023 - 06:37:38] - Admin: Sony Yoman merilis Johan Leonhart dari penjara
+[06/07/2023 - 06:50:29] - Admin: Sony Yoman memberi Ammar Mizandrin jail selama 1 menit. Alasan: bug!
+[06/07/2023 - 06:50:37] - Admin: Sony Yoman merilis Ammar Mizandrin dari penjara
+[06/07/2023 - 07:05:51] - Admin: Andrean menyetel hp Luiggy Samosa!
+[06/07/2023 - 07:11:21] - Admin: Andrean menyetel hp Andrean!
+[06/07/2023 - 07:24:27] - Admin: Idaan Somewire menyetel armor Boris Ivanov!
+[06/07/2023 - 07:30:13] - Admin: idaan menyetel armor Budi Santoso!
+[06/07/2023 - 07:33:29] - Admin: idaan menyetel armor Boris Ivanov!
+[06/07/2023 - 07:36:10] - Admin: Ferdy menyetel armor Martin Toress!
+[06/07/2023 - 07:36:12] - Admin: idaan menyetel armor Martin Toress!
+[06/07/2023 - 07:36:21] - Admin: Ferdy menyetel armor Ferdy!
+[06/07/2023 - 07:36:26] - Admin: Ferdy menyetel hp Ferdy!
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:47:30] - Admin: Fly memberikan uang kesemua player sejumlah $1,000
+[06/07/2023 - 07:50:04] - Admin: Senna Joeylee menyetel hp Senna Joeylee!
+[06/07/2023 - 07:51:08] - Admin: Ferdy Claucius menyetel hp Ferdy Claucius!
+[06/07/2023 - 07:51:16] - Admin: Ferdy Claucius menyetel armor Ferdy Claucius!
+[06/07/2023 - 07:53:44] - Admin: Andrean menyetel hp Andrean!
+[06/07/2023 - 07:56:17] - Admin: Idaan Somewire menyetel armor Ambon DeCastillo!
+[06/07/2023 - 07:56:26] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[06/07/2023 - 07:59:30] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[06/07/2023 - 08:02:06] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[06/07/2023 - 08:02:58] - Admin: Idaan Somewire memberikan senjata M4(500) ke Idaan Somewire!
+[06/07/2023 - 08:10:43] - Admin: Andrean memberi Kenzo Akira jail selama 1 menit. Alasan: bug!
+[06/07/2023 - 08:10:44] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[06/07/2023 - 08:10:47] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[06/07/2023 - 08:10:52] - Admin: Andrean merilis Kenzo Akira dari penjara
+[06/07/2023 - 08:11:21] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[06/07/2023 - 08:11:39] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[06/07/2023 - 08:12:25] - Admin: Idaan Somewire menyetel hp Idaan Somewire!
+[06/07/2023 - 08:19:59] - Admin: GonnZee Basilius menyetel hp GonnZee Basilius!
+[06/07/2023 - 08:25:28] - Admin: Rafly Paleka memberi Kei Ooconer jail selama 10 menit. Alasan: UDH D BILANG JANGAN IKUT PELEBURAN BUAT WARGA BARU!
+[06/07/2023 - 08:25:56] - Admin: Idaan Somewire memberikan uang $1,000,000 ke Idaan Somewire!
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:01:36] - Admin: idaan memberikan uang kesemua player sejumlah $1,500
+[06/07/2023 - 09:31:50] - Admin: Fly unban Marc_Marcus dari server!
+[06/07/2023 - 09:32:54] - Admin: Andrean menyetel hp Andrean!
+[06/07/2023 - 09:33:09] - Admin: Fly menyetel hp Fly!
+[06/07/2023 - 09:33:12] - Admin: Ryujin menyetel hp Ryujin!
+[06/07/2023 - 09:33:17] - Admin: Ryujin menyetel armor Andrean!
+[06/07/2023 - 09:33:28] - Admin: Ryujin menyetel armor Ryujin!
+[06/07/2023 - 09:35:08] - Admin: Andrean menyetel hp Andrean!
+[06/07/2023 - 09:35:16] - Admin: Zeelyn. menyetel hp Zeelyn.!
+[06/07/2023 - 09:35:26] - Admin: Andrean menyetel armor Andrean!
+[06/07/2023 - 09:35:38] - Admin: Fly menyetel hp Fly!
+[06/07/2023 - 09:36:04] - Admin: Ryujin memberikan senjata Night Vision Goggles(10) ke Ryujin!
+[06/07/2023 - 09:36:45] - Admin: Andrean menyetel hp Alexi Nicholas!
+[06/07/2023 - 09:37:01] - Admin: Fly menyetel hp Yura Chizura!
+[06/07/2023 - 09:37:09] - Admin: Ryujin memberikan senjata Thermal Goggles(10) ke Ryujin!
+[06/07/2023 - 09:37:46] - Admin: Ryujin memberikan senjata Grenade(2) ke Ryujin!
+[06/07/2023 - 09:38:05] - Admin: Ryujin menyetel hp Ryujin!
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:38:07] - Admin: Fly memberikan uang kesemua player sejumlah $1
+[06/07/2023 - 09:39:10] - Admin: Ryujin memberikan senjata Satchel Explosives(2) ke Ryujin!
+[06/07/2023 - 09:40:15] - Admin: Zeelyn. menyetel hp Zeelyn.!
+[06/07/2023 - 09:40:27] - Admin: Ryujin menyetel hp Fly!
+[06/07/2023 - 09:40:42] - Admin: Ryujin menyetel hp Fly!
+[06/07/2023 - 09:40:47] - Admin: Andrean menyetel armor Andrean!
+[06/07/2023 - 09:41:14] - Admin: Ryujin menyetel hp Andrean!
+[06/07/2023 - 09:41:38] - Admin: Andrean menyetel hp Andrean!
+[06/07/2023 - 09:44:50] - Admin: Zeelyn. menyetel hp Andrean!
+[06/07/2023 - 09:45:13] - Admin: Ryujin menyetel hp Fly!
+[06/07/2023 - 09:45:14] - Admin: Fly menyetel hp Yura Chizura!
+[06/07/2023 - 09:45:19] - Admin: Fly menyetel hp Fly!
+[06/07/2023 - 09:45:22] - Admin: Ryujin menyetel hp Fly!
+[06/07/2023 - 09:45:23] - Admin: Andrean menyetel armor Andrean!
+[06/07/2023 - 09:45:41] - Admin: Fly menyetel hp Fly!
+[06/07/2023 - 09:45:47] - Admin: Ryujin menyetel hp Fly!
+[06/07/2023 - 09:45:52] - Admin: Fly menyetel hp Fly!
+[06/07/2023 - 09:46:01] - Admin: Ryujin menyetel hp Fly!
+[06/07/2023 - 09:46:04] - Admin: Fly menyetel hp Fly!
+[06/07/2023 - 09:46:38] - Admin: Ryujin memberikan senjata Night Vision Goggles(250) ke Ryujin!
+[06/07/2023 - 09:47:03] - Admin: Fly menyetel hp Fly!
+[06/07/2023 - 09:49:51] - Admin: Ryujin memberikan senjata Night Vision Goggles(250) ke Ryujin!
+[06/07/2023 - 09:55:06] - Admin: Ryujin memberikan senjata Katana(1) ke Ryujin!
+[06/07/2023 - 09:55:37] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[06/07/2023 - 09:55:40] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[06/07/2023 - 09:56:10] - Admin: Ryujin memberikan senjata Katana(1) ke Andrean!
+[06/07/2023 - 09:56:52] - Admin: Ryujin memberikan senjata Katana(1) ke Fly!
+[06/07/2023 - 09:57:36] - Admin: Ryujin menyetel hp Ryujin!
+[06/07/2023 - 09:57:41] - Admin: Ryujin menyetel armor Ryujin!
+[06/07/2023 - 09:58:16] - Admin: Andrean menyetel armor Andrean!
+[06/07/2023 - 09:58:26] - Admin: Andrean menyetel hp Andrean!
+[06/07/2023 - 09:58:36] - Admin: Andrean menyetel armor Andrean!
+[06/07/2023 - 10:01:07] - Admin: Fly menyetel hp Fly!
+[06/07/2023 - 10:06:04] - Admin: Idaan Somewire kicked Jaegar Roger Alasan: imig!
+[06/07/2023 - 10:22:21] - Admin: Xavier Aitakatsu menyetel hp Xavier Aitakatsu!
+[06/07/2023 - 10:30:08] - Admin: GonnZee Basilius memberi Zam Oconer jail selama 60 menit. Alasan: LEVEL 2 BAWA GUN!!!!
+[06/07/2023 - 10:39:07] - [House]: Ryujin membuat house id 117!
+[06/07/2023 - 10:40:13] - [House]: Ryujin menghapus house id 117!
+[06/07/2023 - 10:42:09] - Admin: Xavier Aitakatsu memberikan senjata Desert Eagle(500) ke Senna Joeylee!
+[06/07/2023 - 10:42:49] - [Garkot]: Xavier Aitakatsu membuat garkot id 40!
+[06/07/2023 - 10:43:11] - Admin: Senna Joeylee menyetel hp Senna Joeylee!
+[06/07/2023 - 10:54:27] - Admin: Senna Joeylee menyetel hp Bahar Amexx!
+[06/07/2023 - 10:59:25] - Admin: Ryujin menyetel hp Sony Yoman!
+[06/07/2023 - 10:59:29] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[06/07/2023 - 11:00:18] - Admin: Ryujin menyetel hp Ryujin!
+[06/07/2023 - 11:00:23] - Admin: Ryujin menyetel armor Ryujin!
+[06/07/2023 - 11:01:20] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[06/07/2023 - 11:01:29] - Admin: Sony Yoman menyetel armor Sony Yoman!
+[06/07/2023 - 11:01:44] - Admin: Sony Yoman menyetel armor Sony Yoman!
+[06/07/2023 - 11:02:51] - Admin: Sony Yoman menyetel armor Sony Yoman!
+[06/07/2023 - 11:02:57] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[06/07/2023 - 11:03:30] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[06/07/2023 - 11:03:33] - Admin: Sony Yoman menyetel armor Sony Yoman!
+[06/07/2023 - 11:03:46] - Admin: Sony Yoman menyetel armor Sony Yoman!
+[06/07/2023 - 11:06:16] - Admin: Sony Yoman memberikan senjata Desert Eagle(70) ke GonnZee Basilius!
+[06/07/2023 - 11:07:14] - Admin: Sony Yoman menyetel armor Sony Yoman!
+[06/07/2023 - 11:07:20] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[06/07/2023 - 11:08:37] - Admin: GonnZee Basilius menyetel hp GonnZee Basilius!
+[06/07/2023 - 11:08:49] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[06/07/2023 - 11:08:52] - Admin: Sony Yoman menyetel armor Sony Yoman!
+[06/07/2023 - 11:08:53] - Admin: GonnZee Basilius menyetel hp GonnZee Basilius!
+[06/07/2023 - 11:09:14] - Admin: Sony Yoman memberikan senjata Desert Eagle(100) ke Sony Yoman!
+[06/07/2023 - 11:10:42] - Admin: GonnZee Basilius menyetel hp GonnZee Basilius!
+[06/07/2023 - 11:13:21] - Admin: GonnZee Basilius menyetel hp Bahar Amexx!
+[06/07/2023 - 11:30:45] - Admin: GonnZee Basilius menyetel hp Yohan Gabriel!
+[06/07/2023 - 11:30:49] - Admin: GonnZee Basilius menyetel hp Hans Drian!
+[06/07/2023 - 11:30:54] - Admin: GonnZee Basilius menyetel hp GonnZee Basilius!
+[06/07/2023 - 20:08:43] - Admin: Owen Nascimento memberi Nonet_Toretto jail(offline) selama 1 menit. Alasan: bug!
+[06/07/2023 - 20:24:18] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[06/07/2023 - 20:29:33] - Admin: Ryujin menyetel ayam jumlah 0!
+[06/07/2023 - 20:32:28] - Admin: Ryujin menyetel material jumlah 50!
+[06/07/2023 - 20:39:27] - Admin: Clariko Losantos memberi Sony_Yoman jail(offline) selama 1 menit. Alasan: bug fc!
+[06/07/2023 - 20:41:34] - Admin: Sony Yoman memberi Owen_Nascimento jail(offline) selama 1 menit. Alasan: bug fc!
+[06/07/2023 - 20:43:48] - Admin: Sony Yoman menyetel ketua faction id 2 ke Vero Benjamin!
+[06/07/2023 - 20:47:17] - Admin: Andrean memberi Nonet Toretto jail selama 1 menit. Alasan: bug fc!
+[06/07/2023 - 22:39:25] - Admin: Rafly Paleka unban Franky_Stevano dari server!
+[06/07/2023 - 22:50:22] - Admin: Andrean menyetel hp Andrean!
+[06/07/2023 - 23:03:31] - Admin: Fly memberikan uang kesemua player sejumlah $123
+[06/07/2023 - 23:03:31] - Admin: Fly memberikan uang kesemua player sejumlah $123
+[06/07/2023 - 23:03:31] - Admin: Fly memberikan uang kesemua player sejumlah $123
+[06/07/2023 - 23:03:31] - Admin: Fly memberikan uang kesemua player sejumlah $123
+[06/07/2023 - 23:03:31] - Admin: Fly memberikan uang kesemua player sejumlah $123
+[06/07/2023 - 23:03:31] - Admin: Fly memberikan uang kesemua player sejumlah $123
+[06/07/2023 - 23:03:31] - Admin: Fly memberikan uang kesemua player sejumlah $123
+[06/07/2023 - 23:03:31] - Admin: Fly memberikan uang kesemua player sejumlah $123
+[06/07/2023 - 23:03:31] - Admin: Fly memberikan uang kesemua player sejumlah $123
+[06/07/2023 - 23:03:31] - Admin: Fly memberikan uang kesemua player sejumlah $123
+[06/07/2023 - 23:03:31] - Admin: Fly memberikan uang kesemua player sejumlah $123
+[06/07/2023 - 23:03:31] - Admin: Fly memberikan uang kesemua player sejumlah $123
+[06/07/2023 - 23:11:57] - Admin: Fly mengganti nama Farel Syauqi menjadi Sean_Erickson!
+[06/07/2023 - 23:17:59] - Admin: Ryujin menyetel hp Fly!
+[06/07/2023 - 23:20:35] - Admin: Ryujin menyetel hp Sony Yoman!
+[06/07/2023 - 23:20:54] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[06/07/2023 - 23:22:32] - Admin: Fly menyetel hp Fly!
+[06/07/2023 - 23:24:31] - Admin: Ryujin memberikan senjata Camera(1) ke Ryujin!
+[06/07/2023 - 23:24:35] - Admin: Ryujin memberikan senjata Camera(10) ke Ryujin!
+[06/07/2023 - 23:28:13] - Admin: Ryujin memberikan senjata Dildo(1) ke Andrean!
+[06/07/2023 - 23:29:17] - Admin: Andrean menyetel armor Andrean!
+[06/07/2023 - 23:29:28] - Admin: Ryujin memberikan senjata Rocket Launcher(5) ke Ganz Stefano!
+[06/07/2023 - 23:30:35] - Admin: Ryujin memberikan uang $20,000 ke Ganz Stefano!
+[06/07/2023 - 23:31:34] - Admin: Andrean menyetel armor Andrean!
+[06/07/2023 - 23:31:58] - Admin: Ryujin menyetel armor Ryujin!
+[06/07/2023 - 23:32:10] - Admin: Fly menyetel hp Fly!
+[06/07/2023 - 23:34:11] - Admin: Andrean menyetel armor Andrean!
+[06/07/2023 - 23:34:19] - Admin: Juju memberikan senjata Minigun(500) ke Juju!
+[06/07/2023 - 23:34:20] - Admin: Juju memberikan senjata Minigun(500) ke Juju!
+[06/07/2023 - 23:34:21] - Admin: Juju memberikan senjata Minigun(500) ke Juju!
+[06/07/2023 - 23:34:21] - Admin: Juju memberikan senjata Minigun(500) ke Juju!
+[06/07/2023 - 23:35:03] - Admin: Andrean menyetel armor Andrean!
+[06/07/2023 - 23:35:18] - Admin: Andrean menyetel hp Andrean!
+[06/07/2023 - 23:35:23] - Admin: Andrean menyetel hp Andrean!
+[06/07/2023 - 23:35:26] - Admin: Ryujin menyetel hp Juju!
+[06/07/2023 - 23:35:29] - Admin: Senna Joeylee menyetel hp Yudii Oscar!
+[06/07/2023 - 23:35:30] - Admin: Andrean menyetel hp Andrean!
+[06/07/2023 - 23:37:17] - Admin: Ryujin memberikan senjata Desert Eagle(100) ke Ryujin!
+[06/07/2023 - 23:37:49] - Admin: Ryujin menyetel hp Juju!
+[06/07/2023 - 23:41:49] - Admin: Juju menyetel uang $12,731 ke Juju!
+[06/07/2023 - 23:50:58] - [Garkot]: Ryujin membuat garkot id 41!
+[06/07/2023 - 23:52:17] - Admin: Ryujin memberikan uang $15,000 ke Clairo Junior!
+[06/07/2023 - 23:58:40] - Admin: Juju memberikan senjata Minigun(500) ke Juju!
+[07/07/2023 - 00:09:34] - [House]: Juju membuat house id 117!
+[07/07/2023 - 00:09:51] - [House]: Juju membuat house id 118!
+[07/07/2023 - 00:18:43] - [Garkot]: Juju membuat garkot id 42!
+[07/07/2023 - 00:20:03] - [House]: Juju membuat house id 119!
+[07/07/2023 - 00:20:59] - [Garkot]: Juju membuat garkot id 43!
+[07/07/2023 - 01:22:50] - Admin: Idaan Somewire menyetel uang $1,000,000 ke Sony Yoman!
+[07/07/2023 - 01:42:19] - Admin: Venzy Gerard memberi Hezx_LeonHart jail(offline) selama 1 menit. Alasan: BUG FC!
+[07/07/2023 - 01:48:56] - Admin: Idaan Somewire menyetel uang $1,000,000 ke Idaan Somewire!
+[07/07/2023 - 01:53:11] - Admin: Sony Yoman memberi Rafly_Paleka jail(offline) selama 1 menit. Alasan: bug fc!
+[07/07/2023 - 01:54:47] - Admin: Fly memberi Hatomi_Azura jail(offline) selama 1 menit. Alasan: BUG FC!
+[07/07/2023 - 02:10:58] - Admin: Venzy Gerard memberikan senjata Minigun(2) ke Venzy Gerard!
+[07/07/2023 - 02:20:44] - [House]: Idaan Somewire menghapus house id 8!
+[07/07/2023 - 02:26:40] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[07/07/2023 - 02:26:48] - Admin: Sony Yoman menyetel armor Sony Yoman!
+[07/07/2023 - 02:27:31] - Admin: Sony Yoman menyetel hp Bayu Subroto!
+[07/07/2023 - 02:28:21] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[07/07/2023 - 02:28:23] - Admin: Sony Yoman menyetel armor Sony Yoman!
+[07/07/2023 - 02:29:28] - Admin: Venzy Gerard menyetel hp Venzy Gerard!
+[07/07/2023 - 02:31:55] - Admin: Venzy Gerard memberikan senjata Katana(1) ke Venzy Gerard!
+[07/07/2023 - 02:34:46] - Admin: Idaan Somewire memberikan senjata Desert Eagle(300) ke Senna Joeylee!
+[07/07/2023 - 02:34:46] - [Vehicle]: Venzy Gerard membuat kendaraan id 560 ke Jaegar Roger!
+[07/07/2023 - 02:42:41] - Admin: Venzy Gerard memberikan senjata Pool Cue(1) ke Andrean!
+[07/07/2023 - 02:42:46] - Admin: Venzy Gerard memberikan senjata Shovel(1) ke Andrean!
+[07/07/2023 - 02:42:52] - Admin: Venzy Gerard memberikan senjata Chainsaw(1) ke Andrean!
+[07/07/2023 - 02:42:56] - Admin: Venzy Gerard memberikan senjata Baseball Bat(1) ke Andrean!
+[07/07/2023 - 02:43:02] - Admin: Venzy Gerard memberikan senjata Knife(1) ke Andrean!
+[07/07/2023 - 02:43:09] - Admin: Venzy Gerard memberikan senjata Dildo(1) ke Andrean!
+[07/07/2023 - 02:43:14] - Admin: Venzy Gerard memberikan senjata Dildo(1) ke Andrean!
+[07/07/2023 - 02:43:19] - Admin: Venzy Gerard memberikan senjata Vibrator(1) ke Andrean!
+[07/07/2023 - 02:43:22] - Admin: Venzy Gerard memberikan senjata Vibrator(1) ke Andrean!
+[07/07/2023 - 02:43:29] - Admin: Venzy Gerard memberikan senjata Flowers(1) ke Andrean!
+[07/07/2023 - 02:43:51] - Admin: Venzy Gerard memberikan senjata Katana(1) ke Andrean!
+[07/07/2023 - 02:44:07] - Admin: Venzy Gerard memberikan senjata Flowers(1) ke Venzy Gerard!
+[07/07/2023 - 02:48:51] - Admin: Fly memberi Johan Leonhart jail selama 10 menit. Alasan: GAUSAH CD DIKIRA FREEROAM!
+[07/07/2023 - 02:54:06] - Admin: Andrean merilis Johan Leonhart dari penjara
+[07/07/2023 - 03:05:49] - [Workshop] Fly membuat workshop id 6!
+[07/07/2023 - 04:16:16] - Admin: Rafly Paleka menyetel hp Rafly Paleka!
+[07/07/2023 - 04:19:58] - Admin: Sony Yoman menyetel hp Joo Oconer!
+[07/07/2023 - 04:26:19] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[07/07/2023 - 05:31:47] - Admin: Fly merilis Zam Oconer dari penjara
+[07/07/2023 - 06:01:33] - Admin: Idaan Somewire memberi Hezx LeonHart jail selama 30 menit. Alasan: Lepas cleo atau admin banned!
+[07/07/2023 - 06:08:22] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Venzy Gerard!
+[07/07/2023 - 06:14:42] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Venzy Gerard!
+[07/07/2023 - 06:27:07] - Admin: Idaan Somewire menyetel hp Idaan Somewire!
+[07/07/2023 - 06:33:04] - Admin: Idaan Somewire memberi Ganz Stefano jail selama 20 menit. Alasan: Rp bisu!
+[07/07/2023 - 07:07:20] - Admin: Senna Joeylee menyetel hp Senna Joeylee!
+[07/07/2023 - 07:13:07] - [Garkot]: Andrean membuat garkot id 44!
+[07/07/2023 - 07:14:46] - [Garkot]: Andrean menghapus garkot id 34!
+[07/07/2023 - 07:22:17] - Admin: Andrean menyetel level admin 5 ke GonnZee Basilius!
+[07/07/2023 - 07:23:30] - [House]: GonnZee Basilius membuat house id 8!
+[07/07/2023 - 07:23:58] - Admin: Andrean menyetel hp Andrean!
+[07/07/2023 - 07:26:23] - [House]: Zeelyn. menghapus house id 8!
+[07/07/2023 - 07:27:38] - [House]: Zeelyn. membuat house id 8!
+[07/07/2023 - 07:29:56] - [Garkot]: Juju membuat garkot id 34!
+[07/07/2023 - 07:30:06] - [House]: Zeelyn. menghapus house id 8!
+[07/07/2023 - 07:30:29] - [Garkot]: Juju membuat garkot id 45!
+[07/07/2023 - 07:30:45] - [Garkot]: Juju menghapus garkot id 34!
+[07/07/2023 - 07:31:21] - [Garkot]: Juju membuat garkot id 34!
+[07/07/2023 - 07:31:36] - [Garkot]: Juju menghapus garkot id 45!
+[07/07/2023 - 07:32:06] - [House]: Zeelyn. membuat house id 8!
+[07/07/2023 - 07:32:20] - Admin: Senna Joeylee menyetel hp Adres Vinz!
+[07/07/2023 - 07:35:27] - Admin: Idaan Somewire menyetel hp Azel Cooper!
+[07/07/2023 - 07:36:16] - Admin: Idaan Somewire memberi Azel Cooper jail selama 30 menit. Alasan: asek auto aik!
+[07/07/2023 - 07:36:53] - Admin: Idaan Somewire banned permanen Azel Cooper Alasan: AUTO AIM BETON!
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:37:59] - Admin: Idaan Somewire memberikan uang kesemua player sejumlah $1,500
+[07/07/2023 - 07:41:16] - Admin: Juju menyetel component jumlah 53!
+[07/07/2023 - 07:41:52] - Admin: Juju kicked Andrean Alasan: lopyu!
+[07/07/2023 - 07:44:04] - [House]: Zeelyn. menghapus house id 8!
+[07/07/2023 - 07:46:40] - Admin: Juju memberikan uang $1,000 ke Bayu Subroto!
+[07/07/2023 - 07:53:02] - [Door]: Zeelyn. menghapus door id 34!
+[07/07/2023 - 08:06:28] - Admin: Ferdy Claucius menyetel hp Ferdy Claucius!
+[07/07/2023 - 08:11:56] - [Biz]: GonnZee Basilius membuat business id 25!
+[07/07/2023 - 08:14:56] - Admin: Zuo Yousuke menyetel hp Zuo Yousuke!
+[07/07/2023 - 08:15:00] - Admin: Zuo Yousuke menyetel armor Zuo Yousuke!
+[07/07/2023 - 08:16:31] - [Biz]: GonnZee Basilius membuat business id 26!
+[07/07/2023 - 08:22:07] - Admin: Idaan Somewire menyetel armor Idaan Somewire!
+[07/07/2023 - 08:24:16] - Admin: GonnZee Basilius memberi Stevano Martinez jail selama 1 menit. Alasan: abUG!
+[07/07/2023 - 08:24:17] - Admin: Zuo Yousuke menyetel ketua faction id 2 ke Zuo Yousuke!
+[07/07/2023 - 08:24:24] - Admin: GonnZee Basilius merilis Stevano Martinez dari penjara
+[07/07/2023 - 08:24:38] - Admin: Zuo Yousuke menyetel ketua faction id 3 ke Zuo Yousuke!
+[07/07/2023 - 08:24:45] - Admin: Zuo Yousuke menyetel ketua faction id 1 ke Zuo Yousuke!
+[07/07/2023 - 08:25:29] - Admin: Zuo Yousuke menyetel ketua faction id 3 ke Zuo Yousuke!
+[07/07/2023 - 08:25:35] - Admin: Zuo Yousuke menyetel ketua faction id 1 ke Zuo Yousuke!
+[07/07/2023 - 08:25:45] - [Biz]: GonnZee Basilius membuat business id 27!
+[07/07/2023 - 08:26:00] - Admin: GonnZee Basilius memberi Stevano Martinez jail selama 1 menit. Alasan: abUG!
+[07/07/2023 - 08:26:03] - Admin: GonnZee Basilius merilis Stevano Martinez dari penjara
+[07/07/2023 - 08:27:02] - [Biz]: GonnZee Basilius membuat business id 28!
+[07/07/2023 - 08:29:04] - Admin: Ferdy Claucius memberi Jarot Stalbert jail selama 9999999 menit!
+[07/07/2023 - 08:29:14] - Admin: Ferdy Claucius memberi Migel Scofield jail selama 9999999 menit!
+[07/07/2023 - 08:29:39] - [Garkot]: GonnZee Basilius menghapus garkot id 34!
+[07/07/2023 - 08:30:27] - Admin: Zuo Yousuke memberi Zuo Yousuke jail selama 1569325055 menit!
+[07/07/2023 - 08:30:31] - Admin: Zuo Yousuke memberi Zuo Yousuke jail selama 276447231 menit!
+[07/07/2023 - 08:30:33] - Admin: Zuo Yousuke memberi Zuo Yousuke jail selama 99999 menit!
+[07/07/2023 - 08:32:59] - Admin: Zuo Yousuke merilis Zuo Yousuke dari penjara
+[07/07/2023 - 08:34:38] - Admin: Idaan Somewire memberi Kalpin Darmawan jail selama 999999 menit. Alasan: RP CK!
+[07/07/2023 - 08:35:15] - Admin: Idaan Somewire memberi Garry Clooney jail selama 9999999 menit. Alasan: RPCK!
+[07/07/2023 - 08:35:59] - Admin: Idaan Somewire merilis Garry Clooney dari penjara
+[07/07/2023 - 08:36:02] - Admin: Idaan Somewire memberi Garry Clooney jail selama 9999999 menit. Alasan: RPCK!
+[07/07/2023 - 08:37:01] - Admin: Senna Joeylee menyetel hp Moeza Aemza!
+[07/07/2023 - 08:37:20] - Admin: Idaan Somewire merilis Garry Clooney dari penjara
+[07/07/2023 - 08:38:22] - Admin: Idaan Somewire memberi Garry Clooney jail selama 9999999 menit. Alasan: RPCK!
+[07/07/2023 - 08:40:25] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[07/07/2023 - 08:41:33] - [House]: GonnZee Basilius membuat house id 8!
+[07/07/2023 - 08:41:45] - [House]: GonnZee Basilius membuat house id 120!
+[07/07/2023 - 08:42:16] - [House]: GonnZee Basilius membuat house id 121!
+[07/07/2023 - 08:45:11] - [House]: GonnZee Basilius membuat house id 122!
+[07/07/2023 - 08:47:21] - [Garkot]: Juju membuat garkot id 34!
+[07/07/2023 - 08:48:05] - Admin: Sony Yoman menyetel hp Lisya Anatasya!
+[07/07/2023 - 08:57:24] - Admin: Owen Nascimento memberikan uang $10,000 ke Owen Nascimento!
+[07/07/2023 - 09:05:50] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[07/07/2023 - 09:05:53] - [House]: Owen Nascimento membuat house id 123!
+[07/07/2023 - 09:07:49] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[07/07/2023 - 09:08:47] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[07/07/2023 - 09:09:04] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[07/07/2023 - 09:13:18] - [Garkot]: Owen Nascimento membuat garkot id 45!
+[07/07/2023 - 09:14:43] - Admin: Owen Nascimento menyetel hp Owen Nascimento!
+[07/07/2023 - 09:14:47] - Admin: Owen Nascimento menyetel armor Owen Nascimento!
+[07/07/2023 - 10:50:46] - Admin: GonnZee Basilius memberikan senjata Parachute(1) ke GonnZee Basilius!
+[07/07/2023 - 10:50:58] - Admin: GonnZee Basilius memberikan senjata Parachute(1) ke Bobee DeCosa!
+[07/07/2023 - 10:55:37] - Admin: GonnZee Basilius memberikan senjata Parachute(1) ke GonnZee Basilius!
+[07/07/2023 - 10:56:09] - Admin: GonnZee Basilius memberikan senjata Brass Knuckles(250) ke !
+[07/07/2023 - 10:56:42] - Admin: GonnZee Basilius memberikan senjata Parachute(1) ke Yohan Gabriel!
+[07/07/2023 - 10:56:47] - Admin: GonnZee Basilius memberikan senjata Parachute(1) ke Bobee DeCosa!
+[07/07/2023 - 11:16:33] - Admin: Zeelyn. memberikan senjata Desert Eagle(100) ke Zeelyn.!
+[07/07/2023 - 11:16:49] - Admin: Zeelyn. memberikan senjata Desert Eagle(100) ke Zeelyn.!
+[07/07/2023 - 11:16:53] - Admin: Zeelyn. memberikan senjata Desert Eagle(100) ke Zeelyn.!
+[07/07/2023 - 11:16:56] - Admin: Zeelyn. memberikan senjata Desert Eagle(100) ke Zeelyn.!
+[07/07/2023 - 11:17:00] - Admin: Zeelyn. memberikan senjata Desert Eagle(100) ke Zeelyn.!
+[07/07/2023 - 11:17:04] - Admin: Zeelyn. memberikan senjata Desert Eagle(100) ke Zeelyn.!
+[07/07/2023 - 11:17:07] - Admin: Zeelyn. memberikan senjata Desert Eagle(100) ke Zeelyn.!
+[07/07/2023 - 11:17:10] - Admin: Zeelyn. memberikan senjata Desert Eagle(100) ke Zeelyn.!
+[07/07/2023 - 11:17:12] - Admin: Zeelyn. memberikan senjata Desert Eagle(100) ke Zeelyn.!
+[07/07/2023 - 11:17:24] - Admin: Zeelyn. memberikan senjata Desert Eagle(100) ke Zeelyn.!
+[07/07/2023 - 11:17:26] - Admin: Zeelyn. memberikan senjata Desert Eagle(100) ke Zeelyn.!
+[07/07/2023 - 11:17:44] - Admin: Zeelyn. memberikan senjata AK47(200) ke Zeelyn.!
+[07/07/2023 - 12:51:42] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Venzy Gerard!
+[07/07/2023 - 12:51:53] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Venzy Gerard!
+[07/07/2023 - 12:51:56] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Venzy Gerard!
+[07/07/2023 - 12:51:58] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Venzy Gerard!
+[07/07/2023 - 12:52:00] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Venzy Gerard!
+[07/07/2023 - 12:52:03] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Venzy Gerard!
+[07/07/2023 - 12:52:11] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Venzy Gerard!
+[07/07/2023 - 12:52:22] - Admin: Venzy Gerard memberikan senjata Desert Eagle(150) ke Venzy Gerard!
+[07/07/2023 - 12:55:01] - [Vehicle]: Venzy Gerard membuat kendaraan id 560 ke Venzy Gerard!
+[07/07/2023 - 22:02:19] - Admin: Sony Yoman memberikan senjata Nite Stick(250) ke !
+[07/07/2023 - 22:03:13] - Admin: Sony Yoman memberi Ganz Stefano jail selama 50 menit. Alasan: fail rp!
+[07/07/2023 - 22:04:12] - Admin: Andrean memberikan senjata Flowers(250) ke !
+[07/07/2023 - 22:05:36] - Admin: Andrean merilis Ganz Stefano dari penjara
+[08/07/2023 - 01:14:17] - Admin: Ferdy memberi Rafens Stuart jail selama 1 menit. Alasan: bug!
+[08/07/2023 - 01:14:37] - Admin: Ferdy merilis Rafens Stuart dari penjara
+[08/07/2023 - 02:33:12] - Admin: Ferdy memberikan uang $5,000 ke Dwiardy!
+[08/07/2023 - 02:53:47] - Admin: Zuo Yousuke banned IP 114.4.218.25!
+[08/07/2023 - 02:53:51] - Admin: Zuo Yousuke banned IP 114.4.218.25!
+[08/07/2023 - 02:53:52] - Admin: Zuo Yousuke banned IP 114.4.218.25!
+[08/07/2023 - 02:53:57] - Admin: Zuo Yousuke banned IP 114.4.218.25 Kontol!
+[08/07/2023 - 02:54:10] - Admin: Zuo Yousuke banned IP 114.4.218.25!
+[08/07/2023 - 02:55:30] - Admin: Ferdy Claucius menyetel hp Ambon DeCastillo!
+[08/07/2023 - 02:55:39] - Admin: Zuo Yousuke banned ucp permanen Yudii Alasan: Jangan ditiru!
+[08/07/2023 - 02:58:04] - [Actor]: Zuo Yousuke membuat actor id 6!
+[08/07/2023 - 05:08:17] - Admin: Fly kicked FADLY BBM Alasan: GANTI NAMAMU JANGAN HURUF KAPITAL SEMUA !
+[08/07/2023 - 05:10:41] - Admin: Fly memberi FADLY BBM jail selama 50 menit. Alasan: GANTI NAMAMU JANGAN HURUF KAPITAL SEMUA !
+[08/07/2023 - 05:10:43] - Admin: Ferdy Claucius kicked FADLY BBM Alasan: NON RP NAME SILAHKAN CEK RULES!
+[08/07/2023 - 05:13:41] - Admin: Fly memberi Ganz Stefano jail selama 20 menit. Alasan: BACA RULES SEBELUM MASKOT EMS DUTY MALAH DI TEMBAK!
+[08/07/2023 - 10:35:12] - Admin: Idan Cooper memberikan senjata Minigun(500) ke Idan Cooper!
+[08/07/2023 - 10:35:33] - Admin: Idan Cooper banned permanen Oliver Girround Alasan: anak lonte!
+[08/07/2023 - 10:35:53] - Admin: Idan Cooper banned permanen Zam Oconer Alasan: rusuh!
+[08/07/2023 - 10:36:17] - Admin: Idan Cooper banned permanen Azika Mukti Alasan: cit cleo!
+[08/07/2023 - 11:44:05] - Admin: Zuo Yousuke unbanned IP 180.252.243.248!
+[08/07/2023 - 11:44:20] - Admin: Zuo Yousuke unban Azika_Mukti dari server!
+[08/07/2023 - 11:51:37] - Admin: Zuo Yousuke banned IP 118.99.125.26!
+[08/07/2023 - 11:54:45] - Admin: Zuo Yousuke unban Oliver_Girround dari server!
+[08/07/2023 - 11:55:12] - Admin: Zuo Yousuke unban Zam_Oconer dari server!
+[08/07/2023 - 11:56:38] - Admin: Zuo Yousuke kicked Azika Mukti Alasan: kontol!
+[08/07/2023 - 19:07:55] - Admin: Ferdy Claucius menyetel level Ferdy Claucius ke level 50!
+[08/07/2023 - 19:22:57] - [Workshop] Ferdy membuat workshop id 7!
+[08/07/2023 - 19:24:32] - Admin: Ferdy Claucius mengeluarkan Ferdy Claucius dari ketu fraksi!
+[08/07/2023 - 19:25:42] - Admin: Ferdy menyetel ketua faction id 1 ke Ferdy!
+[08/07/2023 - 19:26:07] - Admin: Ferdy menyetel ketua faction id 2 ke Ferdy!
+[08/07/2023 - 19:34:36] - Admin: Ferdy menyetel ketua faction id 1 ke Ferdy!
+[08/07/2023 - 19:41:23] - Admin: Ferdy menyetel ketua faction id 2 ke Ferdy!
+[08/07/2023 - 19:58:19] - [Atm]: Ferdy membuat atm id 17!
+[08/07/2023 - 20:00:04] - Admin: Ferdy menyetel ketua faction id 1 ke Ferdy!
+[10/07/2023 - 09:16:25] - Admin: Zuo Yousuke menyetel ketua faction id 3 ke Zuo Yousuke!
+[10/07/2023 - 09:27:38] - Admin: Zuo Yousuke mengeluarkan Zuo Yousuke dari ketu fraksi!
+[10/07/2023 - 09:35:12] - Admin: idaan banned permanen Azel Cooper Alasan: CLEO AUTO AIM !
+[10/07/2023 - 09:43:29] - Admin: Senna Joeylee menyetel hp Luiggy Samosa!
+[10/07/2023 - 09:46:11] - Admin: Zuo Yousuke menyetel hp Zuo Yousuke!
+[10/07/2023 - 09:47:49] - Admin: Zuo Yousuke menyetel ketua faction id 1 ke Zuo Yousuke!
+[10/07/2023 - 09:49:10] - Admin: Zuo Yousuke mengeluarkan Zuo Yousuke dari ketu fraksi!
+[10/07/2023 - 09:51:18] - Admin: Zuo Yousuke menyetel ketua faction id 1 ke Zuo Yousuke!
+[10/07/2023 - 09:52:20] - Admin: Zuo Yousuke mengeluarkan Zuo Yousuke dari ketu fraksi!
+[10/07/2023 - 09:52:29] - Admin: Zuo Yousuke merilis Kalpin Darmawan dari penjara
+[10/07/2023 - 09:55:06] - [Garkot]: Juju membuat garkot id 46!
+[10/07/2023 - 09:55:18] - [Garkot]: Juju menghapus garkot id 46!
+[10/07/2023 - 09:55:33] - [Garkot]: Juju membuat garkot id 46!
+[10/07/2023 - 10:01:24] - Admin: Ferdy mengeluarkan Zuo Yousuke dari ketu fraksi!
+[10/07/2023 - 10:02:42] - [Garkot]: Zuo Yousuke menghapus garkot id 46!
+[10/07/2023 - 10:03:34] - Admin: Zuo Yousuke menyetel hp Zuo Yousuke!
+[10/07/2023 - 10:05:11] - Admin: idaan memberi Yura_Chizura jail(offline) selama 50 menit. Alasan: BUG!
+[10/07/2023 - 10:06:00] - Admin: Idaan Somewire memberi Yura_Chizura jail(offline) selama 50 menit. Alasan: BUG!
+[10/07/2023 - 10:08:15] - Admin: Zuo Yousuke memberi Yura_Chizura jail(offline) selama 1 menit. Alasan: bbug!
+[10/07/2023 - 10:10:54] - Admin: Zuo Yousuke memberi Yura_Chizura jail(offline) selama 1 menit. Alasan: bug!
+[10/07/2023 - 10:38:44] - Admin: Owen Nascimento menyetel hp Owen Nascimento!
+[10/07/2023 - 10:40:57] - Admin: Idaan Somewire menyetel uang $1,000,000 ke Senna Joeylee!
+[10/07/2023 - 10:48:19] - Admin: Idaan Somewire menyetel uang $1,000,000 ke Idaan Somewire!
+[10/07/2023 - 11:05:11] - Admin: Senna Joeylee menyetel hp Christian Valencia!
+[10/07/2023 - 11:10:37] - Admin: Senna Joeylee menyetel hp Senna Joeylee!
+[10/07/2023 - 12:46:48] - Admin: Xavier Aitakatsu memberi Idaan_Somewire jail(offline) selama 50 menit. Alasan: bug!
+[10/07/2023 - 18:57:23] - Admin: Owen Nascimento memberikan uang $100,000 ke Owen Nascimento!
+[10/07/2023 - 22:44:04] - Admin: anna memberi Alexius Ricarrdo jail selama 10 menit. Alasan: bug!
+[10/07/2023 - 22:44:11] - Admin: anna merilis Alexius Ricarrdo dari penjara
+[10/07/2023 - 22:49:48] - Admin: anna menyetel hp Asep Claudio!
+[11/07/2023 - 21:21:42] - Admin: idaan menyetel hp Aldy Sudirman!
+[12/07/2023 - 01:13:11] - Admin: idaan memberi Ganz Stefano jail selama 20 menit. Alasan: BACA RULES,DULU!
+[12/07/2023 - 01:31:39] - [House]: Zuo Yousuke membuat house id 124!
+[12/07/2023 - 01:32:42] - [House]: Zuo Yousuke menghapus house id 124!
+[12/07/2023 - 01:36:57] - Admin: Zuo Yousuke memberi Theo Walther jail selama 10 menit. Alasan: batu!
+[12/07/2023 - 01:37:16] - Admin: Zuo Yousuke memberi Alok Backer jail selama 10 menit. Alasan: batu!
+[12/07/2023 - 01:37:27] - Admin: Juju merilis Theo Walther dari penjara
+[12/07/2023 - 01:38:16] - Admin: Juju merilis Alok Backer dari penjara
+[12/07/2023 - 01:39:55] - [Vehicle]: Juju membuat kendaraan id 470 ke Zakyy Saputra!
+[12/07/2023 - 01:41:24] - Admin: Ferdy Claucius menyetel hp Ferdy Claucius!
+[12/07/2023 - 01:46:27] - Admin: Zuo Yousuke menyetel ketua faction id 1 ke Zuo Yousuke!
+[12/07/2023 - 01:48:17] - Admin: Senna Joeylee menyetel hp Senna Joeylee!
+[12/07/2023 - 01:50:28] - Admin: Juju mengeluarkan Juju dari ketu fraksi!
+[12/07/2023 - 01:53:29] - Admin: Ferdy Claucius menyetel level Ferdy Claucius ke level 15!
+[12/07/2023 - 01:56:27] - Admin: Juju menyetel hp Asep Claudio!
+[12/07/2023 - 01:56:30] - Admin: Senna Joeylee menyetel hp Asep Claudio!
+[12/07/2023 - 02:17:39] - Admin: Zuo Yousuke memberi Tokyo Dreant jail selama 10 menit. Alasan: batu!
+[12/07/2023 - 02:32:50] - Admin: Zuo Yousuke menyetel hp Rizz Oconner!
+[12/07/2023 - 02:50:41] - Admin: Senna Joeylee menyetel hp Tokyo Dreant!
+[12/07/2023 - 02:54:59] - Admin: Fly memberi Tokyo Dreant jail selama 10 menit!
+[12/07/2023 - 02:55:14] - Admin: Sony Yoman menyetel hp Sony Yoman!
+[12/07/2023 - 02:57:32] - Admin: Fly memberi Bahar Amexx jail selama 10 menit!
+[12/07/2023 - 03:06:57] - Admin: Fly memberi Ganz Stefano jail selama 10 menit!
+[12/07/2023 - 03:07:22] - Admin: Fly memberi Alok Backer jail selama 10 menit!
+[12/07/2023 - 03:09:13] - Admin: Andrean menyetel hp Rafens Stuart!
+[12/07/2023 - 03:09:20] - Admin: Fly memberi Zakyy Saputra jail selama 10 menit!
+[12/07/2023 - 03:15:50] - Admin: Andrean memberi Fly jail selama 10000000 menit!
+[12/07/2023 - 03:16:14] - Admin: Andrean memberi Rafens Stuart jail selama 1215752191 menit!
+[12/07/2023 - 03:16:58] - Admin: Fly merilis Fly dari penjara
+[12/07/2023 - 03:23:00] - Admin: Zuo Yousuke memberi Zuo Yousuke jail selama 10000 menit. Alasan: 1!
+[12/07/2023 - 03:24:08] - Admin: Zuo Yousuke merilis Zakyy Saputra dari penjara
+[12/07/2023 - 03:24:13] - Admin: Zuo Yousuke merilis Zuo Yousuke dari penjara
+[27/08/2023 - 18:28:05] - [Workshop] Wizzy Sterlinxs membuat workshop id 21!
+[27/08/2023 - 18:28:16] - [House]: Wizzy Sterlinxs membuat house id 165!
+[27/08/2023 - 18:28:26] - [Garkot]: Wizzy Sterlinxs membuat garkot id 87!
+[27/08/2023 - 18:28:34] - [Atm]: Wizzy Sterlinxs membuat atm id 21!
+[27/08/2023 - 18:28:44] - [Biz]: Wizzy Sterlinxs membuat business id 35!
+[27/08/2023 - 18:28:54] - [Actor]: Wizzy Sterlinxs membuat actor id 8!
