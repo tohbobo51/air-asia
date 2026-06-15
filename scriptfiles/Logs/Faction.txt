@@ -1,0 +1,99 @@
+[04/07/2023 - 09:03:35] - [FACTION]: Rafly Paleka mengundang Azel Cooper menjadi fraksi!
+[04/07/2023 - 09:03:48] - [FACTION]: Rafly Paleka mengeluarkan Azel Cooper dari fraksi!
+[04/07/2023 - 09:03:54] - [FACTION]: Rafly Paleka mengundang Azel Cooper menjadi fraksi!
+[04/07/2023 - 09:04:39] - [FACTION]: Rafly Paleka mengeluarkan Azel Cooper dari fraksi!
+[04/07/2023 - 17:22:48] - [FACTION]: Migel Scofield menyetel fraksi Garry Clooney ke rank!
+[04/07/2023 - 17:24:09] - [FACTION]: Migel Scofield menyetel fraksi Garry Clooney ke rank!
+[04/07/2023 - 21:38:43] - [FACTION]: Idaan Somewire mengeluarkan Azke Winata dari fraksi!
+[04/07/2023 - 21:52:03] - [FACTION]: idaan mempenjarakan Kzzy Fahrib selama 35 hari dan denda $2,500!
+[04/07/2023 - 21:58:11] - [FACTION]: idaan mengeluarkan Abuy Dacamora dari fraksi!
+[04/07/2023 - 22:03:53] - [FACTION]: idaan mengeluarkan Akiyama Akira dari fraksi!
+[04/07/2023 - 22:10:46] - [FACTION]: idaan menyetel fraksi Budi Santoso ke rank!
+[04/07/2023 - 22:12:23] - [FACTION]: idaan menyetel fraksi Bif Harington ke rank!
+[04/07/2023 - 22:36:32] - [FACTION]: Zakyy Saputra menyetel fraksi Sandi Paleka ke rank!
+[04/07/2023 - 23:08:06] - [FACTION]: Stevano Martinez mempenjarakan Kzzy Fahrib selama 35 hari dan denda $2,500!
+[04/07/2023 - 23:23:55] - [FACTION]: Stevano Martinez menilang kendaraan Sultan(id: 121) dengan denda $300!
+[05/07/2023 - 00:10:18] - [FACTION]: Bif Harington menyetel fraksi Franky Stevano ke rank!
+[05/07/2023 - 00:11:37] - [FACTION]: Bif Harington menyetel fraksi Franky Stevano ke rank!
+[05/07/2023 - 00:17:25] - [FACTION]: Bif Harington menilang kendaraan Faggio(id: 133) dengan denda $500!
+[05/07/2023 - 00:19:11] - [FACTION]: Bif Harington menilang kendaraan Elegy(id: 123) dengan denda $500!
+[05/07/2023 - 00:23:08] - [FACTION]: idaan mengeluarkan Aldy Sudirman dari fraksi!
+[05/07/2023 - 00:27:07] - [FACTION]: Bif Harington menilang kendaraan Sultan(id: 107) dengan denda $500!
+[05/07/2023 - 00:37:58] - [FACTION]: Zakyy Saputra menyetel fraksi Emon Pranowo ke rank!
+[05/07/2023 - 00:47:00] - [FACTION]: Bif Harington menilang kendaraan Burrito(id: 110) dengan denda $500!
+[05/07/2023 - 05:21:03] - [FACTION]: Idaan Somewire mengundang Rafens Stuart menjadi fraksi!
+[05/07/2023 - 05:22:00] - [FACTION]: Idaan Somewire mengundang Rafens Stuart menjadi fraksi!
+[05/07/2023 - 06:58:40] - [FACTION]: Rafly Paleka menyetel fraksi Clariko Losantos ke rank!
+[05/07/2023 - 08:48:58] - [FACTION]: Zuo Yousuke mempenjarakan Yohan Gabriel selama 30 hari dan denda $7,500!
+[05/07/2023 - 09:24:14] - [FACTION]: Bif Harington menilang kendaraan Sultan(id: 109) dengan denda $500!
+[05/07/2023 - 23:56:23] - [FACTION]: Bif Harington menilang kendaraan Burrito(id: 103) dengan denda $500!
+[06/07/2023 - 00:00:00] - [FACTION]: Bif Harington menilang kendaraan BMX(id: 107) dengan denda $500!
+[06/07/2023 - 00:30:11] - [FACTION]: Ganz Stefano menyetel fraksi Kei Ooconer ke rank!
+[06/07/2023 - 01:40:32] - [FACTION]: Tama Caramel mengundang Bayu Subroto menjadi fraksi!
+[06/07/2023 - 02:07:26] - [FACTION]: Rafens Stuart mempenjarakan Ganz Stefano selama 10 hari dan denda $3,000!
+[06/07/2023 - 02:08:00] - [FACTION]: Rafens Stuart mempenjarakan Kei Ooconer selama 10 hari dan denda $3,000!
+[06/07/2023 - 02:08:18] - [FACTION]: Rafens Stuart mempenjarakan Kzzy Fahrib selama 10 hari dan denda $3,000!
+[06/07/2023 - 02:08:38] - [FACTION]: Rafens Stuart mempenjarakan Devano Alexander selama 10 hari dan denda $3,000!
+[06/07/2023 - 02:22:43] - [FACTION]: Tama Caramel mengeluarkan Joko Simanjuntak dari fraksi!
+[06/07/2023 - 02:37:39] - [FACTION]: Stevano Martinez menilang kendaraan Sultan(id: 109) dengan denda $500!
+[06/07/2023 - 02:41:37] - [FACTION]: Stevano Martinez menilang kendaraan Jester(id: 116) dengan denda $150!
+[06/07/2023 - 06:37:06] - [FACTION]: Bif Harington menyetel fraksi Stevano Martinez ke rank!
+[06/07/2023 - 06:37:31] - [FACTION]: Bif Harington menyetel fraksi Rafens Stuart ke rank!
+[06/07/2023 - 06:38:07] - [FACTION]: Ferdy Claucius mengundang Javier Laroca menjadi fraksi!
+[06/07/2023 - 06:39:15] - [FACTION]: Ferdy Claucius menyetel fraksi Javier Laroca ke rank!
+[06/07/2023 - 06:39:57] - [FACTION]: Budi Santoso menyetel fraksi Martin Toress ke rank!
+[06/07/2023 - 06:40:24] - [FACTION]: Bif Harington menyetel fraksi Ambon DeCastillo ke rank!
+[06/07/2023 - 06:40:27] - [FACTION]: Budi Santoso menyetel fraksi Ambon DeCastillo ke rank!
+[06/07/2023 - 06:40:33] - [FACTION]: Bif Harington menyetel fraksi Javier Laroca ke rank!
+[06/07/2023 - 07:15:58] - [FACTION]: Ambon DeCastillo menyetel fraksi Boris Ivanov ke rank!
+[06/07/2023 - 07:16:15] - [FACTION]: Ambon DeCastillo menyetel fraksi Boris Ivanov ke rank!
+[06/07/2023 - 07:16:16] - [FACTION]: Ambon DeCastillo menyetel fraksi Boris Ivanov ke rank!
+[06/07/2023 - 07:16:41] - [FACTION]: Ambon DeCastillo menyetel fraksi Martin Toress ke rank!
+[06/07/2023 - 08:24:31] - [FACTION]: Stevano Martinez menilang kendaraan Burrito(id: 106) dengan denda $500!
+[06/07/2023 - 08:45:31] - [FACTION]: Bif Harington menyetel fraksi Kalpin Darmawan ke rank!
+[06/07/2023 - 08:52:49] - [FACTION]: Stevano Martinez menilang kendaraan PCJ-600(id: 129) dengan denda $500!
+[06/07/2023 - 08:54:50] - [FACTION]: Stevano Martinez menilang kendaraan Landstalker(id: 133) dengan denda $500!
+[06/07/2023 - 10:10:44] - [FACTION]: Budi Santoso menilang kendaraan Sultan(id: 122) dengan denda $500!
+[06/07/2023 - 10:32:31] - [FACTION]: Budi Santoso mempenjarakan Jaegar Roger selama 70 hari dan denda $3,500!
+[06/07/2023 - 23:13:39] - [FACTION]: Migel Scofield menyetel fraksi Kalpin Darmawan ke rank!
+[06/07/2023 - 23:14:24] - [FACTION]: Migel Scofield menyetel fraksi Kalpin Darmawan ke rank!
+[06/07/2023 - 23:41:59] - [FACTION]: Stevano Martinez menilang kendaraan Freeway(id: 104) dengan denda $250!
+[06/07/2023 - 23:59:07] - [FACTION]: Bif Harington menyetel fraksi Ambon DeCastillo ke rank!
+[06/07/2023 - 23:59:19] - [FACTION]: Ambon DeCastillo menyetel fraksi Bif Harington ke rank!
+[07/07/2023 - 00:14:31] - [FACTION]: Stevano Martinez menilang kendaraan Bobcat(id: 140) dengan denda $500!
+[07/07/2023 - 00:31:48] - [FACTION]: Budi Santoso menyetel fraksi Bif Harington ke rank!
+[07/07/2023 - 00:49:23] - [FACTION]: Budi Santoso menyetel fraksi Kalpin Darmawan ke rank!
+[07/07/2023 - 05:23:56] - [FACTION]: Bif Harington mempenjarakan Ganz Stefano selama 35 hari dan denda $1,500!
+[07/07/2023 - 05:44:59] - [FACTION]: Idaan Somewire mengundang Sean Erickson menjadi fraksi!
+[07/07/2023 - 05:45:43] - [FACTION]: Ferdy Claucius mengundang Johnsen Orami menjadi fraksi!
+[07/07/2023 - 05:45:50] - [FACTION]: Idaan Somewire mengundang Johnsen Orami menjadi fraksi!
+[07/07/2023 - 06:20:15] - [FACTION]: Ferdy Claucius menilang kendaraan Sultan(id: 148) dengan denda $500!
+[07/07/2023 - 06:40:38] - [FACTION]: Idaan Somewire mengundang Yudii Oscar menjadi fraksi!
+[07/07/2023 - 06:42:07] - [FACTION]: Idaan Somewire mengeluarkan Garry Clooney dari fraksi!
+[07/07/2023 - 06:45:54] - [FACTION]: Idaan Somewire mengundang Garry Clooney menjadi fraksi!
+[07/07/2023 - 06:46:51] - [FACTION]: Idaan Somewire mengeluarkan Garry Clooney dari fraksi!
+[07/07/2023 - 06:50:28] - [FACTION]: Idaan Somewire mempenjarakan Chisia Naomii selama 35 hari dan denda $2,500!
+[07/07/2023 - 07:50:34] - [FACTION]: Juju menyetel fraksi Yudii Oscar ke rank!
+[07/07/2023 - 08:24:40] - [FACTION]: Zuo Yousuke menyetel fraksi Bayu Subroto ke rank!
+[07/07/2023 - 08:25:32] - [FACTION]: Zuo Yousuke menyetel fraksi Bayu Subroto ke rank!
+[07/07/2023 - 08:48:26] - [FACTION]: Bif Harington mempenjarakan Antonio Gerard selama 35 hari dan denda $2,500!
+[07/07/2023 - 09:37:49] - [FACTION]: Bif Harington mempenjarakan Luiggy Samosa selama 50 hari dan denda $3,500!
+[07/07/2023 - 18:46:18] - [FACTION]: Charlote Morgan menyetel fraksi Dazai Scofield ke rank!
+[07/07/2023 - 20:37:54] - [FACTION]: Budi Santoso menilang kendaraan Sultan(id: 102) dengan denda $500!
+[08/07/2023 - 01:08:15] - [FACTION]: Ferdy Claucius menyetel fraksi Martin Toress ke rank!
+[08/07/2023 - 02:43:27] - [FACTION]: Ferdy Claucius menyetel fraksi Yudii Oscar ke rank!
+[08/07/2023 - 21:43:30] - [FACTION]: Rafens Stuart menilang kendaraan Sultan(id: 102) dengan denda $1!
+[08/07/2023 - 21:43:37] - [FACTION]: Rafens Stuart menilang kendaraan Sultan(id: 102) dengan denda $500!
+[10/07/2023 - 10:39:23] - [FACTION]: Ferdy Claucius menilang kendaraan Sultan(id: 102) dengan denda $500!
+[10/07/2023 - 20:25:06] - [FACTION]: Kenzo Akira menyetel fraksi Abuy Dacamora ke rank!
+[10/07/2023 - 20:25:50] - [FACTION]: Kenzo Akira menyetel fraksi Abuy Dacamora ke rank!
+[10/07/2023 - 20:30:29] - [FACTION]: Kenzo Akira menyetel fraksi Aldy Sudirman ke rank!
+[10/07/2023 - 20:30:44] - [FACTION]: Kenzo Akira menyetel fraksi Aldy Sudirman ke rank!
+[10/07/2023 - 20:31:17] - [FACTION]: Kenzo Akira menyetel fraksi Abuy Dacamora ke rank!
+[10/07/2023 - 20:31:25] - [FACTION]: Kenzo Akira menyetel fraksi Abuy Dacamora ke rank!
+[10/07/2023 - 20:31:40] - [FACTION]: Kenzo Akira menyetel fraksi Abuy Dacamora ke rank!
+[10/07/2023 - 20:31:44] - [FACTION]: Kenzo Akira menyetel fraksi Aldy Sudirman ke rank!
+[10/07/2023 - 20:31:50] - [FACTION]: Kenzo Akira menyetel fraksi Aldy Sudirman ke rank!
+[10/07/2023 - 20:31:57] - [FACTION]: Kenzo Akira menyetel fraksi Aldy Sudirman ke rank!
+[12/07/2023 - 02:57:59] - [FACTION]: Rafens Stuart menilang kendaraan Sultan(id: 103) dengan denda $500!
+[12/07/2023 - 05:08:06] - [FACTION]: Rafens Stuart menilang kendaraan FCR-900(id: 106) dengan denda $500!
