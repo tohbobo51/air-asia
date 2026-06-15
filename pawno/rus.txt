@@ -1,0 +1,37 @@
+MODULE\PRIVATE_VEHICLE.pwn(1834) : ïðåäóïðåæäåíèå 216: âëîæåííûé êîììåíòàðèé
+MODULE\NATIVE.pwn(1336) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+MODULE\NATIVE.pwn(1395) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+MODULE\JOB\PENAMBANG.pwn(162) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "str"
+MODULE\JOB\INDIHOME.pwn(63) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+MODULE\JOB\INDIHOME.pwn(91) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+MODULE\CMD\FACTION.pwn(550) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+MODULE\CMD\FACTION.pwn(580) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+MODULE\CMD\FACTION.pwn(692) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+MODULE\CMD\PLAYER.pwn(67) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+MODULE\CMD\PLAYER.pwn(72) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+MODULE\CMD\PLAYER.pwn(77) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+MODULE\CMD\PLAYER.pwn(1110) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+MODULE\CMD\ADMIN.pwn(671) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+MODULE\CMD\ADMIN.pwn(691) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+MODULE\CMD\ADMIN.pwn(711) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+MODULE\DIALOG.pwn(2833) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+MODULE\TASK.pwn(214) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+MODULE\TASK.pwn(230) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\AsiaPride\gamemodes\GM.pwn(2691) : ïðåäóïðåæäåíèå 209: ôóíêöèÿ "OnPlayerText" äîëæíà âîçâðàùàòü çíà÷åíèå
+D:\AsiaPride\gamemodes\GM.pwn(4917) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\AsiaPride\gamemodes\GM.pwn(7679) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\AsiaPride\gamemodes\GM.pwn(16) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "AddDmvVehicle"
+D:\AsiaPride\gamemodes\GM.pwn(304) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "CountParkedVeh"
+D:\AsiaPride\gamemodes\GM.pwn(105) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "DisplayPaycheck"
+D:\AsiaPride\gamemodes\GM.pwn(455) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "GetAnyGarkot"
+D:\AsiaPride\gamemodes\GM.pwn(138) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "GetAnyVehiclePark"
+D:\AsiaPride\gamemodes\GM.pwn(269) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "GetVehicleOwnerName"
+D:\AsiaPride\gamemodes\GM.pwn(626) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "ProgressTimer"
+D:\AsiaPride\gamemodes\GM.pwn(120) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "ReturnAnyVehiclePark"
+D:\AsiaPride\gamemodes\GM.pwn(464) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "ReturnGarkotID"
+D:\AsiaPride\gamemodes\GM.pwn(2218) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "Uptime"
+D:\AsiaPride\gamemodes\GM.pwn(639) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "rent_vehicle_id"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:11.
