@@ -1458,6 +1458,7 @@ main()
 #include "MODULE\TASK.pwn"
 
 #include "MODULE\CMD\DISCORD.pwn"
+#include "MODULE\MECHANIC.pwn"
 
 //-----[ Discord Status ]-----	
 forward BotStatus();
