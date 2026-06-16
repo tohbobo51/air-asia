@@ -1,7 +1,6 @@
-
-  //=============================================================
+//=============================================================
   // FRAKSI MEKANIK — Asia Pride Roleplay
-  // fix: renamed local vars to avoid warning 219 (shadow)
+  // fix: pOnDuty, single-line format strings, no warning 219
   //=============================================================
 
   #define FACTION_MECH            5
@@ -70,7 +69,7 @@
       return pData[playerid][pFaction] == FACTION_MECH;
 
   bool:IsMechanicDuty(playerid)
-      return pData[playerid][pFaction] == FACTION_MECH && pData[playerid][pDuty] == 1;
+      return pData[playerid][pFaction] == FACTION_MECH && pData[playerid][pOnDuty] == 1;
 
   GetMechRankName(mechRank)
   {
@@ -111,17 +110,12 @@
           if(pvData[mechIdx][cVeh] == mechPvid) { mechDbid = mechIdx; break; }
       }
       if(mechDbid == -1) return 0;
-
-      if(VehSnapshot[playerid][snapColor1] != pvData[mechDbid][cColor1] ||
-         VehSnapshot[playerid][snapColor2] != pvData[mechDbid][cColor2])
+      if(VehSnapshot[playerid][snapColor1] != pvData[mechDbid][cColor1] || VehSnapshot[playerid][snapColor2] != pvData[mechDbid][cColor2])
           mechTotal += MechPriceColor;
-
       if(VehSnapshot[playerid][snapPaintJob] != pvData[mechDbid][cPaintJob])
           mechTotal += MechPricePaint;
-
       if(VehSnapshot[playerid][snapNeon] != pvData[mechDbid][cNeon])
           mechTotal += MechPriceNeon;
-
       for(new mechS = 0; mechS < 17; mechS++) {
           if(VehSnapshot[playerid][snapMods][mechS] != pvData[mechDbid][cMod][mechS])
               mechTotal += MechPriceComp;
@@ -134,17 +128,11 @@
       new mechVehid = VehSnapshot[playerid][snapVehID];
       new mechDbid  = VehSnapshot[playerid][snapDBID];
       if(mechVehid == INVALID_VEHICLE_ID || mechDbid == -1) return;
-
-      ChangeVehicleColor(mechVehid,
-          VehSnapshot[playerid][snapColor1],
-          VehSnapshot[playerid][snapColor2]);
-
+      ChangeVehicleColor(mechVehid, VehSnapshot[playerid][snapColor1], VehSnapshot[playerid][snapColor2]);
       if(pvData[mechDbid][cPaintJob] != VehSnapshot[playerid][snapPaintJob])
           ChangeVehiclePaintjob(mechVehid, pvData[mechDbid][cPaintJob]);
-
       for(new mechS = 0; mechS < 17; mechS++) {
-          if(pvData[mechDbid][cMod][mechS] != 0 &&
-             VehSnapshot[playerid][snapMods][mechS] == 0)
+          if(pvData[mechDbid][cMod][mechS] != 0 && VehSnapshot[playerid][snapMods][mechS] == 0)
               RemoveVehicleComponent(mechVehid, pvData[mechDbid][cMod][mechS]);
       }
       VehSnapshot[playerid][snapActive] = 0;
@@ -166,8 +154,7 @@
 
       new mechDbid = -1;
       foreach(new mechIdx : PVehicles) {
-          if(pvData[mechIdx][cVeh] == mechPvid &&
-             strcmp(pvData[mechIdx][cOwner], GetRPName(playerid), true) == 0) {
+          if(pvData[mechIdx][cVeh] == mechPvid && strcmp(pvData[mechIdx][cOwner], GetRPName(playerid), true) == 0) {
               mechDbid = mechIdx; break;
           }
       }
@@ -188,19 +175,14 @@
 
       new mechPriceTotal = GetSnapPrice(playerid);
       new mechMenuStr[512];
-      format(mechMenuStr, sizeof mechMenuStr,
-          "Warna Kendaraan\n"
-          "Paintjob\n"
-          "Neon Bawah\n"
-          "Komponen / Tuning\n"
-          "\n"
-          "Estimasi Total: {FFFF00}Rp.%s\n"
-          "Konfirmasi Order",
-          FormatMoney(mechPriceTotal)
-      );
-      ShowPlayerDialog(playerid, DIALOG_MECH_PREVIEW_CAT, DIALOG_STYLE_LIST,
-          "{FF8800}[ MODIFIKASI KENDARAAN ]{FFFFFF} — Preview",
-          mechMenuStr, "Pilih", "Tutup");
+      format(mechMenuStr, sizeof mechMenuStr, "Warna Kendaraan
+Paintjob
+Neon Bawah
+Komponen / Tuning
+
+Estimasi Total: {FFFF00}Rp.%s
+Konfirmasi Order", FormatMoney(mechPriceTotal));
+      ShowPlayerDialog(playerid, DIALOG_MECH_PREVIEW_CAT, DIALOG_STYLE_LIST, "{FF8800}[ MODIFIKASI KENDARAAN ]{FFFFFF} — Preview", mechMenuStr, "Pilih", "Tutup");
       return 1;
   }
 
@@ -228,24 +210,18 @@
   {
       if(!VehSnapshot[playerid][snapActive])
           return Error(playerid, "Kamu belum membuka preview modifikasi. Gunakan /modif terlebih dahulu.");
-
       new mechPriceConfirm = GetSnapPrice(playerid);
       if(mechPriceConfirm <= 0)
           return Error(playerid, "Kamu belum memilih modifikasi apapun.");
-
       VehSnapshot[playerid][snapPrice] = mechPriceConfirm;
-
       new mechPayStr[512];
-      format(mechPayStr, sizeof mechPayStr,
-          "Total Biaya Modifikasi: {FFFF00}Rp.%s{FFFFFF}\n\n"
-          "Pilih metode pembayaran:\n\n"
-          "{FFFFFF}[ {00FF00}Cash{FFFFFF} ]\t{AAAAAA}Uang di tangan berkurang\n"
-          "{FFFFFF}[ {00AAFF}Transfer Bank{FFFFFF} ]\t{AAAAAA}Saldo bank berkurang",
-          FormatMoney(mechPriceConfirm)
-      );
-      ShowPlayerDialog(playerid, DIALOG_MECH_PAYMENT, DIALOG_STYLE_LIST,
-          "{FF8800}[ KONFIRMASI ORDER ]{FFFFFF} — Pilih Pembayaran",
-          mechPayStr, "Bayar", "Batal");
+      format(mechPayStr, sizeof mechPayStr, "Total Biaya Modifikasi: {FFFF00}Rp.%s{FFFFFF}
+
+Pilih metode pembayaran:
+
+{FFFFFF}[ {00FF00}Cash{FFFFFF} ]	{AAAAAA}Uang di tangan berkurang
+{FFFFFF}[ {00AAFF}Transfer Bank{FFFFFF} ]	{AAAAAA}Saldo bank berkurang", FormatMoney(mechPriceConfirm));
+      ShowPlayerDialog(playerid, DIALOG_MECH_PAYMENT, DIALOG_STYLE_LIST, "{FF8800}[ KONFIRMASI ORDER ]{FFFFFF} — Pilih Pembayaran", mechPayStr, "Bayar", "Batal");
       return 1;
   }
 
@@ -253,30 +229,21 @@
   {
       if(!IsMechanicDuty(playerid))
           return Error(playerid, "Kamu harus menjadi Mekanik dan sedang duty.");
-
       if(MechOrderCount == 0)
           return Info(playerid, "Tidak ada order yang pending saat ini.");
-
       new mechOrdStr[2048], mechOrdCount;
       format(mechOrdStr, sizeof mechOrdStr, "");
       foreach(new mechI : MechOrderIter) {
           if(MechOrders[mechI][moStatus] == 0) {
               new mechPayLabel[10];
               mechPayLabel = MechOrders[mechI][moPayType] == 0 ? "Cash" : "Bank";
-              format(mechOrdStr, sizeof mechOrdStr, "%s#%d | %s | %s | Rp.%s\n",
-                  mechOrdStr,
-                  MechOrders[mechI][moID],
-                  MechOrders[mechI][moPlayerName],
-                  mechPayLabel,
-                  FormatMoney(MechOrders[mechI][moPrice]));
+              format(mechOrdStr, sizeof mechOrdStr, "%s#%d | %s | %s | Rp.%s
+", mechOrdStr, MechOrders[mechI][moID], MechOrders[mechI][moPlayerName], mechPayLabel, FormatMoney(MechOrders[mechI][moPrice]));
               mechOrdCount++;
           }
       }
       if(!mechOrdCount) return Info(playerid, "Tidak ada order pending.");
-
-      ShowPlayerDialog(playerid, DIALOG_MECH_ORDERS, DIALOG_STYLE_LIST,
-          "{FF8800}[ ORDER MODIFIKASI ]{FFFFFF} — Pilih untuk proses",
-          mechOrdStr, "Proses", "Tutup");
+      ShowPlayerDialog(playerid, DIALOG_MECH_ORDERS, DIALOG_STYLE_LIST, "{FF8800}[ ORDER MODIFIKASI ]{FFFFFF} — Pilih untuk proses", mechOrdStr, "Proses", "Tutup");
       return 1;
   }
 
@@ -284,13 +251,14 @@
   {
       if(!IsMechanic(playerid))
           return Error(playerid, "Kamu bukan anggota Fraksi Mekanik.");
-
-      if(pData[playerid][pDuty] == 0) {
-          pData[playerid][pDuty] = 1;
+      if(pData[playerid][pOnDuty] == 0) {
+          pData[playerid][pOnDuty] = 1;
           Info(playerid, "Kamu sekarang ON DUTY sebagai Mekanik.");
-          SendClientMessageToAll(0xFF8800FF, "* %s [Mekanik] kini siap melayani modifikasi.", GetRPName(playerid));
+          new mechDutyMsg[128];
+          format(mechDutyMsg, sizeof mechDutyMsg, "* %s [Mekanik] kini siap melayani modifikasi.", GetRPName(playerid));
+          SendClientMessageToAll(0xFF8800FF, mechDutyMsg);
       } else {
-          pData[playerid][pDuty] = 0;
+          pData[playerid][pOnDuty] = 0;
           Info(playerid, "Kamu sekarang OFF DUTY.");
       }
       return 1;
@@ -300,21 +268,14 @@
   {
       if(!IsMechanic(playerid))
           return Error(playerid, "Kamu bukan anggota Fraksi Mekanik.");
-
       new mechMnuStr[512];
-      format(mechMnuStr, sizeof mechMnuStr,
-          "Status Duty: %s\n"
-          "Rank: %s\n"
-          "Kas Fraksi: Rp.%s\n"
-          "\n"
-          "Lihat Order Pending\n"
-          "Toggle Duty",
-          pData[playerid][pDuty] ? "{00FF00}ON DUTY" : "{FF0000}OFF DUTY",
-          GetMechRankName(pData[playerid][pFactionRank]),
-          FormatMoney(MechanicKas));
-      ShowPlayerDialog(playerid, DIALOG_MECH_MENU, DIALOG_STYLE_LIST,
-          "{FF8800}[ MENU MEKANIK ]",
-          mechMnuStr, "Pilih", "Tutup");
+      format(mechMnuStr, sizeof mechMnuStr, "Status Duty: %s
+Rank: %s
+Kas Fraksi: Rp.%s
+
+Lihat Order Pending
+Toggle Duty", pData[playerid][pOnDuty] ? "{00FF00}ON DUTY" : "{FF0000}OFF DUTY", GetMechRankName(pData[playerid][pFactionRank]), FormatMoney(MechanicKas));
+      ShowPlayerDialog(playerid, DIALOG_MECH_MENU, DIALOG_STYLE_LIST, "{FF8800}[ MENU MEKANIK ]", mechMnuStr, "Pilih", "Tutup");
       return 1;
   }
 
@@ -341,74 +302,50 @@
               if(!response) return 1;
               switch(listitem)
               {
-                  case 0: // Warna
+                  case 0:
                   {
                       new mechColStr[1024];
-                      new mechColorNames[13][] = {
-                          "Putih","Hitam","Merah","Biru","Hijau",
-                          "Kuning","Oranye","Ungu","Pink","Abu-abu",
-                          "Coklat","Silver","Gold"
-                      };
+                      new mechColorNames[13][] = {"Putih","Hitam","Merah","Biru","Hijau","Kuning","Oranye","Ungu","Pink","Abu-abu","Coklat","Silver","Gold"};
                       format(mechColStr, sizeof mechColStr, "");
                       for(new mechC = 0; mechC < 13; mechC++)
-                          format(mechColStr, sizeof mechColStr, "%s%s\t{AAAAAA}+Rp.%s\n",
-                              mechColStr, mechColorNames[mechC], FormatMoney(MechPriceColor));
-                      ShowPlayerDialog(playerid, DIALOG_MECH_COLOR1, DIALOG_STYLE_LIST,
-                          "{FF8800}[ PILIH WARNA UTAMA ]", mechColStr, "Pilih", "Kembali");
+                          format(mechColStr, sizeof mechColStr, "%s%s	{AAAAAA}+Rp.%s
+", mechColStr, mechColorNames[mechC], FormatMoney(MechPriceColor));
+                      ShowPlayerDialog(playerid, DIALOG_MECH_COLOR1, DIALOG_STYLE_LIST, "{FF8800}[ PILIH WARNA UTAMA ]", mechColStr, "Pilih", "Kembali");
                   }
-                  case 1: // Paintjob
+                  case 1:
                   {
-                      new mechPjStr[512];
-                      format(mechPjStr, sizeof mechPjStr,
-                          "Paintjob 1\t{AAAAAA}+Rp.%s\n"
-                          "Paintjob 2\t{AAAAAA}+Rp.%s\n"
-                          "Paintjob 3\t{AAAAAA}+Rp.%s\n"
-                          "Hapus Paintjob\t{AAAAAA}Gratis",
-                          FormatMoney(MechPricePaint),
-                          FormatMoney(MechPricePaint),
-                          FormatMoney(MechPricePaint));
-                      ShowPlayerDialog(playerid, DIALOG_MECH_PAINTJOB, DIALOG_STYLE_LIST,
-                          "{FF8800}[ PAINTJOB ]", mechPjStr, "Pilih", "Kembali");
+                      new mechPjStr[256];
+                      format(mechPjStr, sizeof mechPjStr, "Paintjob 1	{AAAAAA}+Rp.%s
+Paintjob 2	{AAAAAA}+Rp.%s
+Paintjob 3	{AAAAAA}+Rp.%s
+Hapus Paintjob	{AAAAAA}Gratis", FormatMoney(MechPricePaint), FormatMoney(MechPricePaint), FormatMoney(MechPricePaint));
+                      ShowPlayerDialog(playerid, DIALOG_MECH_PAINTJOB, DIALOG_STYLE_LIST, "{FF8800}[ PAINTJOB ]", mechPjStr, "Pilih", "Kembali");
                   }
-                  case 2: // Neon
+                  case 2:
                   {
                       new mechNeonStr[512];
-                      format(mechNeonStr, sizeof mechNeonStr,
-                          "Tidak Ada Neon\t{AAAAAA}Gratis\n"
-                          "Neon Merah\t{AAAAAA}+Rp.%s\n"
-                          "Neon Hijau\t{AAAAAA}+Rp.%s\n"
-                          "Neon Biru\t{AAAAAA}+Rp.%s\n"
-                          "Neon Kuning\t{AAAAAA}+Rp.%s\n"
-                          "Neon Ungu\t{AAAAAA}+Rp.%s\n"
-                          "Neon Pink\t{AAAAAA}+Rp.%s\n"
-                          "Neon Putih\t{AAAAAA}+Rp.%s",
-                          FormatMoney(MechPriceNeon), FormatMoney(MechPriceNeon),
-                          FormatMoney(MechPriceNeon), FormatMoney(MechPriceNeon),
-                          FormatMoney(MechPriceNeon), FormatMoney(MechPriceNeon),
-                          FormatMoney(MechPriceNeon));
-                      ShowPlayerDialog(playerid, DIALOG_MECH_NEON, DIALOG_STYLE_LIST,
-                          "{FF8800}[ NEON BAWAH ]", mechNeonStr, "Pilih", "Kembali");
+                      format(mechNeonStr, sizeof mechNeonStr, "Tidak Ada Neon	{AAAAAA}Gratis
+Neon Merah	{AAAAAA}+Rp.%s
+Neon Hijau	{AAAAAA}+Rp.%s
+Neon Biru	{AAAAAA}+Rp.%s
+Neon Kuning	{AAAAAA}+Rp.%s
+Neon Ungu	{AAAAAA}+Rp.%s
+Neon Pink	{AAAAAA}+Rp.%s
+Neon Putih	{AAAAAA}+Rp.%s", FormatMoney(MechPriceNeon), FormatMoney(MechPriceNeon), FormatMoney(MechPriceNeon), FormatMoney(MechPriceNeon), FormatMoney(MechPriceNeon), FormatMoney(MechPriceNeon), FormatMoney(MechPriceNeon));
+                      ShowPlayerDialog(playerid, DIALOG_MECH_NEON, DIALOG_STYLE_LIST, "{FF8800}[ NEON BAWAH ]", mechNeonStr, "Pilih", "Kembali");
                   }
-                  case 3: // Komponen
+                  case 3:
                   {
                       new mechCompStr[1024];
-                      new mechSlotNames[17][] = {
-                          "Spoiler","Hood","Roof","Sideskirt","Lamps",
-                          "Nitro x2","Nitro x5","Nitro x10","Exhaust","Wheels",
-                          "Stereo","Hydraulics","Front Bumper","Rear Bumper",
-                          "Misc 1","Misc 2","Misc 3"
-                      };
+                      new mechSlotNames[17][] = {"Spoiler","Hood","Roof","Sideskirt","Lamps","Nitro x2","Nitro x5","Nitro x10","Exhaust","Wheels","Stereo","Hydraulics","Front Bumper","Rear Bumper","Misc 1","Misc 2","Misc 3"};
                       format(mechCompStr, sizeof mechCompStr, "");
                       for(new mechS = 0; mechS < 17; mechS++) {
-                          new mechSlotStatus[24];
-                          mechSlotStatus = VehSnapshot[playerid][snapMods][mechS] != 0
-                              ? "{00FF00}Terpasang" : "{AAAAAA}Kosong";
-                          format(mechCompStr, sizeof mechCompStr, "%s%s\t%s (+Rp.%s)\n",
-                              mechCompStr, mechSlotNames[mechS],
-                              mechSlotStatus, FormatMoney(MechPriceComp));
+                          new mechSlotStat[24];
+                          mechSlotStat = VehSnapshot[playerid][snapMods][mechS] != 0 ? "{00FF00}Terpasang" : "{AAAAAA}Kosong";
+                          format(mechCompStr, sizeof mechCompStr, "%s%s	%s (+Rp.%s)
+", mechCompStr, mechSlotNames[mechS], mechSlotStat, FormatMoney(MechPriceComp));
                       }
-                      ShowPlayerDialog(playerid, DIALOG_MECH_COMPONENT, DIALOG_STYLE_LIST,
-                          "{FF8800}[ KOMPONEN / TUNING ]", mechCompStr, "Pilih", "Kembali");
+                      ShowPlayerDialog(playerid, DIALOG_MECH_COMPONENT, DIALOG_STYLE_LIST, "{FF8800}[ KOMPONEN / TUNING ]", mechCompStr, "Pilih", "Kembali");
                   }
                   case 5: CMD:confirmorder(playerid, "");
               }
@@ -419,20 +356,15 @@
           {
               if(!response) { ShowPreviewMenu(playerid); return 1; }
               new mechColorCodes1[13] = {1,0,6,3,53,88,10,71,135,101,7,4,11};
-              new mechColorNames2[13][] = {
-                  "Putih","Hitam","Merah","Biru","Hijau",
-                  "Kuning","Oranye","Ungu","Pink","Abu-abu",
-                  "Coklat","Silver","Gold"
-              };
+              new mechColorNames2[13][] = {"Putih","Hitam","Merah","Biru","Hijau","Kuning","Oranye","Ungu","Pink","Abu-abu","Coklat","Silver","Gold"};
               if(listitem < 13) {
                   SetPVarInt(playerid, "MechTmpColor1", mechColorCodes1[listitem]);
                   new mechCol2Str[512];
                   format(mechCol2Str, sizeof mechCol2Str, "");
                   for(new mechC = 0; mechC < 13; mechC++)
-                      format(mechCol2Str, sizeof mechCol2Str, "%s%s\n",
-                          mechCol2Str, mechColorNames2[mechC]);
-                  ShowPlayerDialog(playerid, DIALOG_MECH_COLOR2, DIALOG_STYLE_LIST,
-                      "{FF8800}[ PILIH WARNA SEKUNDER ]", mechCol2Str, "Pilih", "Kembali");
+                      format(mechCol2Str, sizeof mechCol2Str, "%s%s
+", mechCol2Str, mechColorNames2[mechC]);
+                  ShowPlayerDialog(playerid, DIALOG_MECH_COLOR2, DIALOG_STYLE_LIST, "{FF8800}[ PILIH WARNA SEKUNDER ]", mechCol2Str, "Pilih", "Kembali");
               }
               return 1;
           }
@@ -474,10 +406,8 @@
           {
               if(!response) { ShowPreviewMenu(playerid); return 1; }
               VehSnapshot[playerid][snapNeon] = listitem;
-              if(listitem == 0)
-                  Info(playerid, "Neon dihapus dari preview.");
-              else
-                  Info(playerid, "Preview neon %s diterapkan.", GetNeonName(listitem));
+              if(listitem == 0) Info(playerid, "Neon dihapus dari preview.");
+              else Info(playerid, "Preview neon %s diterapkan.", GetNeonName(listitem));
               ShowPreviewMenu(playerid);
               return 1;
           }
@@ -487,19 +417,13 @@
               if(!response) { ShowPreviewMenu(playerid); return 1; }
               if(listitem < 17) {
                   new mechCompSlot = listitem;
-                  new mechCompNames[17][] = {
-                      "Spoiler","Hood","Roof","Sideskirt","Lamps",
-                      "Nitro x2","Nitro x5","Nitro x10","Exhaust","Wheels",
-                      "Stereo","Hydraulics","Front Bumper","Rear Bumper",
-                      "Misc 1","Misc 2","Misc 3"
-                  };
+                  new mechCompNames[17][] = {"Spoiler","Hood","Roof","Sideskirt","Lamps","Nitro x2","Nitro x5","Nitro x10","Exhaust","Wheels","Stereo","Hydraulics","Front Bumper","Rear Bumper","Misc 1","Misc 2","Misc 3"};
                   if(VehSnapshot[playerid][snapMods][mechCompSlot] != 0) {
                       VehSnapshot[playerid][snapMods][mechCompSlot] = 0;
                       Info(playerid, "%s dihapus dari order.", mechCompNames[mechCompSlot]);
                   } else {
                       VehSnapshot[playerid][snapMods][mechCompSlot] = 1;
-                      Info(playerid, "%s ditambahkan ke order. (+Rp.%s)",
-                          mechCompNames[mechCompSlot], FormatMoney(MechPriceComp));
+                      Info(playerid, "%s ditambahkan ke order. (+Rp.%s)", mechCompNames[mechCompSlot], FormatMoney(MechPriceComp));
                   }
               }
               ShowPreviewMenu(playerid);
@@ -510,41 +434,33 @@
           {
               if(!response) return 1;
               new mechPayTotal = VehSnapshot[playerid][snapPrice];
-              new mechPayType  = listitem; // 0=cash, 1=bank
-
+              new mechPayType  = listitem;
               if(mechPayType == 0 && pData[playerid][pMoney] < mechPayTotal)
                   return Error(playerid, "Uang cash tidak cukup! Butuh Rp.%s", FormatMoney(mechPayTotal));
               if(mechPayType == 1 && pData[playerid][pBankMoney] < mechPayTotal)
                   return Error(playerid, "Saldo bank tidak cukup! Butuh Rp.%s", FormatMoney(mechPayTotal));
-
               if(mechPayType == 0) {
                   GivePlayerMoney(playerid, -mechPayTotal);
                   pData[playerid][pMoney] -= mechPayTotal;
               } else {
                   pData[playerid][pBankMoney] -= mechPayTotal;
-                  new mechBankQuery[256];
-                  mysql_format(g_SQL, mechBankQuery, sizeof mechBankQuery,
-                      "UPDATE characters SET bmoney=%d WHERE id=%d",
-                      pData[playerid][pBankMoney], pData[playerid][pID]);
-                  mysql_tquery(g_SQL, mechBankQuery);
+                  new mechBankQ[256];
+                  mysql_format(g_SQL, mechBankQ, sizeof mechBankQ, "UPDATE characters SET bmoney=%d WHERE id=%d", pData[playerid][pBankMoney], pData[playerid][pID]);
+                  mysql_tquery(g_SQL, mechBankQ);
               }
-
               MechanicKas += mechPayTotal;
-
               new mechOidNew = Iter_Free(MechOrderIter);
               if(mechOidNew == -1) return Error(playerid, "Server penuh, coba lagi nanti.");
               Iter_Add(MechOrderIter, mechOidNew);
-
-              MechOrders[mechOidNew][moID]      = mechOidNew;
+              MechOrders[mechOidNew][moID]       = mechOidNew;
               format(MechOrders[mechOidNew][moPlayerName], MAX_PLAYER_NAME, "%s", GetRPName(playerid));
-              MechOrders[mechOidNew][moPlayerID] = playerid;
-              MechOrders[mechOidNew][moPrice]    = mechPayTotal;
-              MechOrders[mechOidNew][moPayType]  = mechPayType;
-              MechOrders[mechOidNew][moStatus]   = 0;
+              MechOrders[mechOidNew][moPlayerID]  = playerid;
+              MechOrders[mechOidNew][moPrice]     = mechPayTotal;
+              MechOrders[mechOidNew][moPayType]   = mechPayType;
+              MechOrders[mechOidNew][moStatus]    = 0;
               MechOrderCount++;
-
-              new mechPvidPay  = GetPlayerVehicleID(playerid);
-              new mechDbidPay  = VehSnapshot[playerid][snapDBID];
+              new mechPvidPay = GetPlayerVehicleID(playerid);
+              new mechDbidPay = VehSnapshot[playerid][snapDBID];
               MechOrders[mechOidNew][moVehicleModel] = GetVehicleModel(mechPvidPay);
               MechOrders[mechOidNew][moVehicleDB]    = mechDbidPay;
               MechOrders[mechOidNew][moColor1]       = VehSnapshot[playerid][snapColor1];
@@ -553,28 +469,13 @@
               MechOrders[mechOidNew][moNeon]         = VehSnapshot[playerid][snapNeon];
               for(new mechS = 0; mechS < 17; mechS++)
                   MechOrders[mechOidNew][moMods][mechS] = VehSnapshot[playerid][snapMods][mechS];
-
               RevertVehicle(playerid);
-
-              new mechInsQuery[512];
-              mysql_format(g_SQL, mechInsQuery, sizeof mechInsQuery,
-                  "INSERT INTO mechanic_orders(player_name,vehicle_model,color1,color2,paintjob,neon,price,pay_type) VALUES('%s',%d,%d,%d,%d,%d,%d,%d)",
-                  MechOrders[mechOidNew][moPlayerName],
-                  MechOrders[mechOidNew][moVehicleModel],
-                  MechOrders[mechOidNew][moColor1],
-                  MechOrders[mechOidNew][moColor2],
-                  MechOrders[mechOidNew][moPaintJob],
-                  MechOrders[mechOidNew][moNeon],
-                  MechOrders[mechOidNew][moPrice],
-                  MechOrders[mechOidNew][moPayType]);
-              mysql_tquery(g_SQL, mechInsQuery);
-
+              new mechInsQ[512];
+              mysql_format(g_SQL, mechInsQ, sizeof mechInsQ, "INSERT INTO mechanic_orders(player_name,vehicle_model,color1,color2,paintjob,neon,price,pay_type) VALUES('%s',%d,%d,%d,%d,%d,%d,%d)", MechOrders[mechOidNew][moPlayerName], MechOrders[mechOidNew][moVehicleModel], MechOrders[mechOidNew][moColor1], MechOrders[mechOidNew][moColor2], MechOrders[mechOidNew][moPaintJob], MechOrders[mechOidNew][moNeon], MechOrders[mechOidNew][moPrice], MechOrders[mechOidNew][moPayType]);
+              mysql_tquery(g_SQL, mechInsQ);
               new mechNotifMsg[128];
-              format(mechNotifMsg, sizeof mechNotifMsg,
-                  "[Mekanik] Order baru dari %s! Rp.%s | /mechorders untuk proses.",
-                  GetRPName(playerid), FormatMoney(mechPayTotal));
+              format(mechNotifMsg, sizeof mechNotifMsg, "[Mekanik] Order baru dari %s! Rp.%s | /mechorders untuk proses.", GetRPName(playerid), FormatMoney(mechPayTotal));
               NotifyMechanics(mechNotifMsg);
-
               Info(playerid, "Order diterima! Kendaraan dikembalikan ke kondisi awal. Tunggu mekanik.");
               return 1;
           }
@@ -590,54 +491,36 @@
                   }
               }
               if(mechOidSel == -1) return 1;
-
               SetPVarInt(playerid, "MechSelOrder", mechOidSel);
-
               new mechDetStr[512];
-              format(mechDetStr, sizeof mechDetStr,
-                  "ID Order   : {FFFF00}#%d{FFFFFF}\n"
-                  "Player     : {FFFF00}%s{FFFFFF}\n"
-                  "Kendaraan  : {FFFF00}%s{FFFFFF}\n"
-                  "Warna      : {FFFF00}%d / %d{FFFFFF}\n"
-                  "Paintjob   : {FFFF00}%d{FFFFFF}\n"
-                  "Neon       : {FFFF00}%s{FFFFFF}\n"
-                  "Harga      : {FFFF00}Rp.%s{FFFFFF}\n"
-                  "Bayar via  : {FFFF00}%s{FFFFFF}\n\n"
-                  "Klik {00FF00}Proses{FFFFFF} untuk apply modif ke kendaraan player.",
-                  MechOrders[mechOidSel][moID],
-                  MechOrders[mechOidSel][moPlayerName],
-                  GetVehicleModelName(MechOrders[mechOidSel][moVehicleModel]),
-                  MechOrders[mechOidSel][moColor1], MechOrders[mechOidSel][moColor2],
-                  MechOrders[mechOidSel][moPaintJob],
-                  GetNeonName(MechOrders[mechOidSel][moNeon]),
-                  FormatMoney(MechOrders[mechOidSel][moPrice]),
-                  MechOrders[mechOidSel][moPayType] == 0 ? "Cash" : "Bank");
-              ShowPlayerDialog(playerid, DIALOG_MECH_ORDER_DETAIL, DIALOG_STYLE_MSGBOX,
-                  "{FF8800}[ DETAIL ORDER ]", mechDetStr, "Proses", "Kembali");
+              format(mechDetStr, sizeof mechDetStr, "ID Order   : {FFFF00}#%d{FFFFFF}
+Player     : {FFFF00}%s{FFFFFF}
+Kendaraan  : {FFFF00}%s{FFFFFF}
+Warna      : {FFFF00}%d / %d{FFFFFF}
+Paintjob   : {FFFF00}%d{FFFFFF}
+Neon       : {FFFF00}%s{FFFFFF}
+Harga      : {FFFF00}Rp.%s{FFFFFF}
+Bayar via  : {FFFF00}%s{FFFFFF}
+
+Klik {00FF00}Proses{FFFFFF} untuk apply modif ke kendaraan player.", MechOrders[mechOidSel][moID], MechOrders[mechOidSel][moPlayerName], GetVehicleModelName(MechOrders[mechOidSel][moVehicleModel]), MechOrders[mechOidSel][moColor1], MechOrders[mechOidSel][moColor2], MechOrders[mechOidSel][moPaintJob], GetNeonName(MechOrders[mechOidSel][moNeon]), FormatMoney(MechOrders[mechOidSel][moPrice]), MechOrders[mechOidSel][moPayType] == 0 ? "Cash" : "Bank");
+              ShowPlayerDialog(playerid, DIALOG_MECH_ORDER_DETAIL, DIALOG_STYLE_MSGBOX, "{FF8800}[ DETAIL ORDER ]", mechDetStr, "Proses", "Kembali");
               return 1;
           }
 
           case DIALOG_MECH_ORDER_DETAIL:
           {
               if(!response) { CMD:mechorders(playerid, ""); return 1; }
-
               new mechOidProc = GetPVarInt(playerid, "MechSelOrder");
               if(mechOidProc == -1 || MechOrders[mechOidProc][moStatus] != 0)
                   return Error(playerid, "Order ini sudah tidak tersedia.");
-
               new mechTargetid = MechOrders[mechOidProc][moPlayerID];
               new mechDbidProc = MechOrders[mechOidProc][moVehicleDB];
               new mechPvidProc = pvData[mechDbidProc][cVeh];
-
               if(mechPvidProc == INVALID_VEHICLE_ID)
                   return Error(playerid, "Kendaraan player tidak ditemukan.");
-
-              ChangeVehicleColor(mechPvidProc,
-                  MechOrders[mechOidProc][moColor1],
-                  MechOrders[mechOidProc][moColor2]);
+              ChangeVehicleColor(mechPvidProc, MechOrders[mechOidProc][moColor1], MechOrders[mechOidProc][moColor2]);
               pvData[mechDbidProc][cColor1] = MechOrders[mechOidProc][moColor1];
               pvData[mechDbidProc][cColor2] = MechOrders[mechOidProc][moColor2];
-
               if(MechOrders[mechOidProc][moPaintJob] >= 0) {
                   ChangeVehiclePaintjob(mechPvidProc, MechOrders[mechOidProc][moPaintJob]);
                   pvData[mechDbidProc][cPaintJob] = MechOrders[mechOidProc][moPaintJob];
@@ -645,30 +528,18 @@
               pvData[mechDbidProc][cNeon] = MechOrders[mechOidProc][moNeon];
               for(new mechS = 0; mechS < 17; mechS++)
                   pvData[mechDbidProc][cMod][mechS] = MechOrders[mechOidProc][moMods][mechS];
-
-              new mechUpdQuery[512];
-              mysql_format(g_SQL, mechUpdQuery, sizeof mechUpdQuery,
-                  "UPDATE vehicles SET color1=%d,color2=%d,paintjob=%d,neon=%d WHERE id=%d",
-                  pvData[mechDbidProc][cColor1], pvData[mechDbidProc][cColor2],
-                  pvData[mechDbidProc][cPaintJob], pvData[mechDbidProc][cNeon],
-                  pvData[mechDbidProc][cID]);
-              mysql_tquery(g_SQL, mechUpdQuery);
-
+              new mechUpdQ[512];
+              mysql_format(g_SQL, mechUpdQ, sizeof mechUpdQ, "UPDATE vehicles SET color1=%d,color2=%d,paintjob=%d,neon=%d WHERE id=%d", pvData[mechDbidProc][cColor1], pvData[mechDbidProc][cColor2], pvData[mechDbidProc][cPaintJob], pvData[mechDbidProc][cNeon], pvData[mechDbidProc][cID]);
+              mysql_tquery(g_SQL, mechUpdQ);
               MechOrders[mechOidProc][moStatus] = 1;
               format(MechOrders[mechOidProc][moMechName], MAX_PLAYER_NAME, "%s", GetRPName(playerid));
               MechOrderCount--;
-
-              new mechStatusQuery[256];
-              mysql_format(g_SQL, mechStatusQuery, sizeof mechStatusQuery,
-                  "UPDATE mechanic_orders SET status=1,mech_name='%s' WHERE id=%d",
-                  GetRPName(playerid), MechOrders[mechOidProc][moID]);
-              mysql_tquery(g_SQL, mechStatusQuery);
-
-              Info(playerid, "Modifikasi berhasil diterapkan ke kendaraan %s!",
-                  MechOrders[mechOidProc][moPlayerName]);
+              new mechStatQ[256];
+              mysql_format(g_SQL, mechStatQ, sizeof mechStatQ, "UPDATE mechanic_orders SET status=1,mech_name='%s' WHERE id=%d", GetRPName(playerid), MechOrders[mechOidProc][moID]);
+              mysql_tquery(g_SQL, mechStatQ);
+              Info(playerid, "Modifikasi berhasil diterapkan ke kendaraan %s!", MechOrders[mechOidProc][moPlayerName]);
               if(IsPlayerConnected(mechTargetid))
-                  Info(mechTargetid, "Kendaraanmu telah dimodifikasi oleh Mekanik %s!",
-                      GetRPName(playerid));
+                  Info(mechTargetid, "Kendaraanmu telah dimodifikasi oleh Mekanik %s!", GetRPName(playerid));
               return 1;
           }
       }
